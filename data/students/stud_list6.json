@@ -1,0 +1,9602 @@
+[
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 351",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 231",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 251",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 165",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 300",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 311",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 261",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 301",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 315",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 252",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 323",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CS 240",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 355",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 380",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 310",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "LING 215",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 166",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 321",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 155",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "POL 272",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CNIT 255",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MET 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 202",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "POL 372",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 221",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 265",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  },
+  {
+    "reqCourses": [
+      {
+        "name": "CS 250",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "ECE 203",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "desiredCourses": [
+      {
+        "name": "CS 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "MA 361",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "LING 201",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ],
+    "backupCourses": [
+      {
+        "name": "CS 182",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "POL 120",
+        "minStudents": 15,
+        "maxStudents": 30
+      },
+      {
+        "name": "CNIT 180",
+        "minStudents": 15,
+        "maxStudents": 30
+      }
+    ]
+  }
+]
