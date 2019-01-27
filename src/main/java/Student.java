@@ -1,13 +1,39 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Student {
 
 	private String[] reqCourses;
 	private String[] desiredCourses;
 	private String[] backupCourses;
 
-	public Student() {
+	private List<Course> schedule;
 
+	public Student() {
+		schedule = new ArrayList<>();
 	}
 
+
+	/* Course Schedule Functions */
+	public void addCourseToSchedule(Course course) {
+		if (schedule.contains(course))
+			return;
+		schedule.add(course);
+		if (!course.isStudentEnrolled(this))
+			course.addStudentToRoster(this);
+	}
+
+	public boolean takesCourse(Course course) {
+		return schedule.contains(course);
+	}
+
+	public Course[] getSchedule() {
+		return schedule.toArray(new Course[0]);
+	}
+	/* Course Schedule Functions */
+
+
+	/* Standard Getters & Setters */
 	public String[] getReqCourses() {
 		return reqCourses;
 	}
@@ -31,6 +57,8 @@ public class Student {
 	public void setBackupCourses(String[] backupCourses) {
 		this.backupCourses = backupCourses;
 	}
+	/* Standard Getters & Setters */
+
 
 	public String toString() {
 		StringBuilder build = new StringBuilder();
