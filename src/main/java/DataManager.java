@@ -8,9 +8,9 @@ import java.util.Map;
 
 public class DataManager {
 
-	private static String inputLocation = "data\\input";
-	private static String outputLocation = "data\\output";
-	private static String courseNameLocation = "data\\CourseNames.json";
+	public static final String inputLocation = "data\\input";
+	public static final String outputLocation = "data\\output";
+	public static final String courseNameLocation = "data\\CourseNames.json";
 
 	private int activeDataSet;
 
@@ -40,6 +40,10 @@ public class DataManager {
 
 	public Student[] getStudents() {
 		return studentList;
+	}
+
+	public static String[] getCourseNames() {
+		return courseNameList;
 	}
 	/* instance variables, getters, and setters */
 
@@ -119,89 +123,4 @@ public class DataManager {
 	}
 	/* Loading Data and Saving Data */
 
-
-	/* Generate New Random Data */
-	/**
-	 * Generates a list of random courses. The number of courses
-	 * generated is determined by the parameter.
-	 * @param size
-	 * @return
-	 */
-	private static String[] generateShuffledCourseList(int size) {
-		int[] shuffledList = ToolBox.fisherYatesShuffle(40); // 40 is the number of courses offered
-		String[] courses = new String[size];
-		for (int i = 0; i < size; i++) {
-			courses[i] = courseNameList[shuffledList[i]];
-		}
-		return courses;
-	}
-
-	/**
-	 * Generates a random data set of student course preferences and returns
-	 * it as an Array of Student objects.
-	 * @return
-	 */
-	private Student[] generateStudentPreferences() { // should be static
-		Student[] students = new Student[200]; // always generates 200 students
-		Map<String, Integer> availableSpace = new HashMap<>();
-
-		// for current tests, I am not going to more students require a course
-		// than the max capacity. This keeps track of how many students require a course
-		for (int i = 0; i < 40; i++)
-			availableSpace.put(courseNameList[i], 30);
-
-		// Generates the student preferences
-		for (int i = 0; i < students.length; i++) {
-			students[i] = new Student();
-			// randomly generate 8 courses from the list TODO switch this to String[]
-			String[] preferredCourses = generateShuffledCourseList(8);
-			// ensure students only put a class a required if the course is not full.
-			int swapIndex = 8;
-			while (availableSpace.get(preferredCourses[0]) == 0) {
-				String temp = preferredCourses[0];
-				preferredCourses[0] = preferredCourses[swapIndex];
-				preferredCourses[swapIndex] = temp;
-				swapIndex++;
-			}
-			while (availableSpace.get(preferredCourses[1]) == 0) {
-				String temp = preferredCourses[1];
-				preferredCourses[1] = preferredCourses[swapIndex];
-				preferredCourses[swapIndex] = temp;
-				swapIndex++;
-			}
-
-			students[i].setReqCourses(Arrays.copyOfRange(preferredCourses, 0, 2));
-			availableSpace.put(preferredCourses[0], availableSpace.get(preferredCourses[0]) - 1);
-			availableSpace.put(preferredCourses[1], availableSpace.get(preferredCourses[1]) - 1);
-			students[i].setDesiredCourses(Arrays.copyOfRange(preferredCourses, 2, 5));
-			students[i].setBackupCourses(Arrays.copyOfRange(preferredCourses, 5, 8));
-		}
-		return students;
-	}
-
-	/**
-	 * Saves the Student Data in the first parameter to the File of the second
-	 * parameter. This method is mostly designed to create a new
-	 * @param students
-	 * @param file
-	 */
-	private void saveStudentData(Student[] students, File file) {  // Should be static
-		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(file));
-			writer.write(new GsonBuilder().setPrettyPrinting().create().toJson(students));
-			writer.flush();
-			writer.close();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
-
-	public void generateStudentDataFiles(int dataSets) { // should be static
-		File folder = new File(inputLocation);
-		for (int i = 0; i < dataSets; i++) {
-			saveStudentData(generateStudentPreferences(),
-					new File(folder, "stud_list" + i + ".json"));
-		}
-	}
-	/* Generate New Random Data */
 }
