@@ -1,34 +1,34 @@
 public class Student {
 
-	private Course[] reqCourses;
-	private Course[] desiredCourses;
-	private Course[] backupCourses;
+	private String[] reqCourses;
+	private String[] desiredCourses;
+	private String[] backupCourses;
 
 	public Student() {
 
 	}
 
-	public Course[] getReqCourses() {
+	public String[] getReqCourses() {
 		return reqCourses;
 	}
 
-	public void setReqCourses(Course[] reqCourses) {
+	public void setReqCourses(String[] reqCourses) {
 		this.reqCourses = reqCourses;
 	}
 
-	public Course[] getDesiredCourses() {
+	public String[] getDesiredCourses() {
 		return desiredCourses;
 	}
 
-	public void setDesiredCourses(Course[] desiredCourses) {
+	public void setDesiredCourses(String[] desiredCourses) {
 		this.desiredCourses = desiredCourses;
 	}
 
-	public Course[] getBackupCourses() {
+	public String[] getBackupCourses() {
 		return backupCourses;
 	}
 
-	public void setBackupCourses(Course[] backupCourses) {
+	public void setBackupCourses(String[] backupCourses) {
 		this.backupCourses = backupCourses;
 	}
 
@@ -36,19 +36,19 @@ public class Student {
 		StringBuilder build = new StringBuilder();
 		build.append("Required: [");
 		for (int i = 0; i < reqCourses.length; i++) {
-			build.append(reqCourses[i].getName());
+			build.append(reqCourses[i]);
 			if (i != reqCourses.length - 1)
 				build.append(", ");
 		}
-		build.append("]\n Desired: [");
+		build.append("]\nDesired: [");
 		for (int i = 0; i < desiredCourses.length; i++) {
-			build.append(desiredCourses[i].getName());
+			build.append(desiredCourses[i]);
 			if (i != desiredCourses.length - 1)
 				build.append(", ");
 		}
-		build.append("]\n Backup: [");
+		build.append("]\nBackup: [");
 		for (int i = 0; i < backupCourses.length; i++) {
-			build.append(backupCourses[i].getName());
+			build.append(backupCourses[i]);
 			if (i != backupCourses.length - 1)
 				build.append(", ");
 		}
