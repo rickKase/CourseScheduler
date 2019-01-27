@@ -30,6 +30,10 @@ public class Course {
 	public boolean isStudentEnrolled(Student student) {
 		return studentRoster.contains(student);
 	}
+
+	public boolean isFull() {
+		return maxStudents == studentRoster.size();
+	}
 	/* Student Roster Functions */
 
 

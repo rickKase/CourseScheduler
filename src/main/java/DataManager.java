@@ -33,7 +33,7 @@ public class DataManager {
 	/* Singleton */
 
 
-	/* instance variables, getters, and setters */
+	/* Data Access Methods */
 	public Course[] getCourses() {
 		return courseList;
 	}
@@ -45,7 +45,14 @@ public class DataManager {
 	public static String[] getCourseNames() {
 		return courseNameList;
 	}
-	/* instance variables, getters, and setters */
+
+	public Course getCourseWithName(String courseName) {
+		for (Course course : courseList)
+			if (course.getName().equals(courseName))
+				return course;
+		return null;
+	}
+	/* Data Access Methods */
 
 
 	/* Loading Data and Saving Data */
@@ -122,5 +129,4 @@ public class DataManager {
 		}
 	}
 	/* Loading Data and Saving Data */
-
 }
