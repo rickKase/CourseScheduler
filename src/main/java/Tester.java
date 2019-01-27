@@ -17,7 +17,7 @@ public class Tester {
 		courseList = generateCourses();
 		studentList = loadStudentData(getStudentDataFile(0));
 
-		
+
 	}
 
 	private static File getStudentDataFile(int i) {
