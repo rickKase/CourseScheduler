@@ -1,19 +1,7 @@
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
-import java.io.*;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Random;
-import java.util.stream.IntStream;
-
-public class Tester {
+public class Main {
 
 	public static void main(String[] args) {
 		DataManager dataMan = DataManager.getInstance();
-
-//		dataMan.generateStudentDataFiles(10);
 
 		System.out.println("Course List:\n_________________");
 		for (Course course : dataMan.getCourses()) {
