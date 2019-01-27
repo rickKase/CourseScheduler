@@ -1,5 +1,7 @@
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class Course {
 
@@ -35,6 +37,17 @@ public class Course {
 		return maxStudents == studentRoster.size();
 	}
 	/* Student Roster Functions */
+
+
+	/* Core Methods */
+	public boolean studentRosterOverlapsWith(Course course) {
+		Set<Student> studentSet = new HashSet<>(studentRoster);
+		for (Student student : course.getStudentRoster())
+			if (!studentSet.add(student))
+				return true;
+		return false;
+	}
+	/* Core Methods */
 
 
 	/* Standard Getters & Setters */
