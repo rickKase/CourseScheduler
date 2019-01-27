@@ -1,3202 +1,3602 @@
 [
   {
+    "id": 0,
     "reqCourses": [
-      "CNIT 155",
-      "POL 272"
-    ],
-    "desiredCourses": [
-      "MET 203",
-      "CNIT 180",
-      "ECE 301"
-    ],
-    "backupCourses": [
-      "LING 321",
-      "MA 361",
-      "CS 252"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 165",
-      "CNIT 355"
-    ],
-    "desiredCourses": [
-      "POL 231",
-      "MET 202",
-      "ECE 201"
-    ],
-    "backupCourses": [
-      "CNIT 380",
-      "CNIT 155",
-      "LING 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "POL 300",
-      "MA 165",
-      "CNIT 380"
-    ],
-    "backupCourses": [
-      "POL 372",
-      "ECE 315",
-      "LING 321"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
+      "CS 250",
       "CNIT 240"
     ],
     "desiredCourses": [
-      "ECE 221",
-      "POL 323",
-      "MET 203"
+      "CS 240",
+      "MET 351",
+      "POL 272"
     ],
     "backupCourses": [
-      "CS 182",
-      "CNIT 180",
-      "LING 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 355",
-      "CS 240"
-    ],
-    "desiredCourses": [
-      "ECE 301",
-      "LING 201",
-      "MET 202"
-    ],
-    "backupCourses": [
+      "LING 321",
       "POL 120",
-      "CNIT 240",
-      "ECE 201"
-    ]
+      "MET 255"
+    ],
+    "schedule": []
   },
   {
+    "id": 1,
     "reqCourses": [
-      "ECE 221",
-      "MA 165"
-    ],
-    "desiredCourses": [
-      "POL 231",
-      "MET 255",
-      "LING 315"
-    ],
-    "backupCourses": [
-      "LING 201",
-      "ECE 203",
-      "CS 252"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 255",
-      "POL 323"
-    ],
-    "desiredCourses": [
-      "CNIT 255",
-      "POL 300",
-      "ECE 301"
-    ],
-    "backupCourses": [
-      "POL 231",
-      "ECE 202",
-      "LING 215"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 203",
-      "CS 240"
-    ],
-    "desiredCourses": [
-      "LING 311",
-      "MET 310",
-      "ECE 201"
-    ],
-    "backupCourses": [
-      "POL 323",
-      "MET 202",
-      "LING 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 221",
-      "LING 321"
-    ],
-    "desiredCourses": [
-      "ECE 301",
-      "POL 300",
-      "MET 203"
-    ],
-    "backupCourses": [
-      "CNIT 255",
-      "LING 201",
-      "CNIT 355"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "MET 203"
-    ],
-    "desiredCourses": [
-      "MET 255",
-      "CNIT 355",
-      "CS 250"
-    ],
-    "backupCourses": [
       "MA 265",
-      "ECE 202",
-      "MET 202"
-    ]
+      "MET 255"
+    ],
+    "desiredCourses": [
+      "LING 315",
+      "CS 180",
+      "CNIT 240"
+    ],
+    "backupCourses": [
+      "LING 311",
+      "POL 372",
+      "LING 201"
+    ],
+    "schedule": []
   },
   {
+    "id": 2,
     "reqCourses": [
       "CS 240",
-      "MA 265"
-    ],
-    "desiredCourses": [
-      "LING 311",
-      "POL 323",
-      "MET 255"
-    ],
-    "backupCourses": [
-      "LING 201",
-      "ECE 203",
-      "POL 372"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 315",
-      "POL 372"
-    ],
-    "desiredCourses": [
-      "MA 361",
-      "CNIT 355",
-      "LING 315"
-    ],
-    "backupCourses": [
-      "ECE 301",
-      "POL 120",
-      "MET 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 255",
-      "CS 252"
-    ],
-    "desiredCourses": [
-      "MA 361",
-      "CNIT 155",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "MET 310",
-      "POL 231",
-      "CS 251"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 361",
       "MA 166"
     ],
     "desiredCourses": [
-      "LING 311",
-      "MET 255",
-      "MA 165"
-    ],
-    "backupCourses": [
-      "ECE 315",
-      "CNIT 255",
-      "LING 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 165",
-      "CNIT 255"
-    ],
-    "desiredCourses": [
-      "MET 310",
-      "MET 203",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "LING 315",
-      "CS 252",
-      "LING 215"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 203",
-      "MA 265"
-    ],
-    "desiredCourses": [
-      "POL 300",
-      "LING 201",
-      "MET 310"
-    ],
-    "backupCourses": [
-      "ECE 315",
-      "POL 372",
-      "CNIT 180"
-    ]
-  },
-  {
-    "reqCourses": [
       "MA 261",
-      "CS 182"
-    ],
-    "desiredCourses": [
-      "LING 215",
-      "MET 351",
-      "CS 240"
+      "CS 251",
+      "LING 315"
     ],
     "backupCourses": [
-      "CS 252",
-      "MA 265",
-      "MA 361"
-    ]
+      "MET 203",
+      "ECE 202",
+      "LING 311"
+    ],
+    "schedule": []
   },
   {
+    "id": 3,
     "reqCourses": [
-      "POL 120",
-      "MET 310"
+      "POL 272",
+      "CNIT 240"
     ],
     "desiredCourses": [
+      "MA 265",
       "ECE 201",
-      "ECE 203",
       "CS 250"
     ],
     "backupCourses": [
-      "CS 252",
-      "CNIT 380",
-      "CS 251"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
+      "MET 202",
+      "MA 165",
       "CS 240"
     ],
-    "desiredCourses": [
-      "CS 180",
-      "MET 202",
-      "LING 321"
-    ],
-    "backupCourses": [
-      "CNIT 240",
-      "ECE 203",
-      "CNIT 255"
-    ]
+    "schedule": []
   },
   {
+    "id": 4,
     "reqCourses": [
+      "POL 231",
+      "ECE 202"
+    ],
+    "desiredCourses": [
       "CS 182",
-      "POL 300"
-    ],
-    "desiredCourses": [
-      "CNIT 355",
-      "CNIT 255",
-      "LING 215"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "CNIT 180",
-      "MA 265"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
-      "LING 311"
-    ],
-    "desiredCourses": [
-      "CNIT 380",
-      "MA 361",
+      "MET 351",
       "MET 310"
     ],
     "backupCourses": [
-      "MET 255",
-      "POL 120",
-      "CNIT 155"
-    ]
+      "MET 201",
+      "CS 251",
+      "MA 165"
+    ],
+    "schedule": []
   },
   {
+    "id": 5,
     "reqCourses": [
-      "CS 250",
-      "LING 315"
-    ],
-    "desiredCourses": [
-      "POL 323",
-      "ECE 221",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "CNIT 355",
-      "CS 251"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 351",
-      "MET 203"
-    ],
-    "desiredCourses": [
-      "ECE 202",
-      "CS 250",
-      "ECE 203"
-    ],
-    "backupCourses": [
       "POL 272",
-      "MA 165",
-      "ECE 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "POL 300"
-    ],
-    "desiredCourses": [
-      "MA 265",
-      "MET 351",
-      "ECE 221"
-    ],
-    "backupCourses": [
-      "MET 203",
-      "CS 240",
-      "POL 272"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 255",
       "MA 261"
     ],
     "desiredCourses": [
-      "POL 300",
-      "MET 202",
-      "CS 251"
-    ],
-    "backupCourses": [
-      "MET 351",
-      "LING 315",
-      "ECE 301"
-    ]
-  },
-  {
-    "reqCourses": [
+      "POL 120",
       "CNIT 255",
-      "MET 201"
-    ],
-    "desiredCourses": [
-      "POL 300",
-      "POL 323",
-      "CS 251"
-    ],
-    "backupCourses": [
-      "POL 231",
-      "LING 321",
-      "MET 351"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 315",
-      "LING 311"
-    ],
-    "desiredCourses": [
-      "MA 265",
-      "MET 255",
-      "ECE 202"
-    ],
-    "backupCourses": [
-      "LING 321",
-      "LING 215",
-      "CNIT 380"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 155",
-      "CS 240"
-    ],
-    "desiredCourses": [
-      "CS 250",
-      "CS 251",
-      "POL 372"
-    ],
-    "backupCourses": [
-      "CS 252",
-      "ECE 315",
-      "CNIT 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 182",
-      "CS 240"
-    ],
-    "desiredCourses": [
-      "CNIT 155",
-      "ECE 201",
-      "MA 265"
-    ],
-    "backupCourses": [
-      "CNIT 180",
-      "ECE 315",
-      "POL 272"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 315",
-      "ECE 301"
-    ],
-    "desiredCourses": [
-      "LING 201",
-      "ECE 202",
-      "POL 323"
-    ],
-    "backupCourses": [
-      "MET 310",
-      "LING 311",
-      "POL 372"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 252",
-      "MET 203"
-    ],
-    "desiredCourses": [
-      "ECE 221",
-      "ECE 203",
-      "CS 240"
-    ],
-    "backupCourses": [
-      "POL 120",
-      "MET 255",
-      "CS 251"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "ECE 203"
-    ],
-    "desiredCourses": [
-      "MET 255",
-      "CS 251",
-      "POL 272"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "POL 300",
-      "LING 321"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 165",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "CNIT 180",
-      "CNIT 255",
-      "CNIT 380"
-    ],
-    "backupCourses": [
-      "CS 180",
-      "MA 261",
-      "CNIT 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 202",
-      "MA 166"
-    ],
-    "desiredCourses": [
-      "POL 120",
-      "CS 251",
-      "MA 265"
-    ],
-    "backupCourses": [
-      "ECE 202",
-      "ECE 315",
-      "MA 165"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 265",
-      "MA 166"
-    ],
-    "desiredCourses": [
-      "ECE 221",
-      "MET 351",
-      "CNIT 355"
-    ],
-    "backupCourses": [
-      "MA 261",
-      "POL 272",
-      "POL 231"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 180",
-      "CNIT 155"
-    ],
-    "desiredCourses": [
-      "ECE 202",
-      "CS 240",
-      "POL 372"
-    ],
-    "backupCourses": [
-      "MA 261",
-      "LING 215",
-      "MET 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 261",
-      "ECE 301"
-    ],
-    "desiredCourses": [
-      "LING 315",
-      "CS 240",
-      "MET 201"
-    ],
-    "backupCourses": [
-      "POL 323",
-      "CNIT 240",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 250",
-      "MET 201"
-    ],
-    "desiredCourses": [
-      "MA 361",
-      "CNIT 240",
-      "ECE 202"
-    ],
-    "backupCourses": [
-      "CNIT 180",
-      "CNIT 380",
-      "MET 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 202",
-      "CNIT 155"
-    ],
-    "desiredCourses": [
-      "MET 203",
-      "CNIT 180",
-      "MET 201"
-    ],
-    "backupCourses": [
-      "POL 120",
-      "LING 201",
-      "CS 251"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 251",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "MET 203",
-      "ECE 221",
-      "MET 310"
-    ],
-    "backupCourses": [
-      "LING 315",
-      "MET 351",
-      "MA 361"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 180",
-      "MET 201"
-    ],
-    "desiredCourses": [
-      "POL 272",
-      "ECE 203",
-      "POL 323"
-    ],
-    "backupCourses": [
-      "LING 215",
-      "CS 252",
-      "CS 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 301",
-      "MET 202"
-    ],
-    "desiredCourses": [
-      "MET 310",
-      "CS 180",
       "ECE 315"
     ],
     "backupCourses": [
-      "MET 203",
-      "CS 182",
-      "CS 240"
-    ]
+      "LING 311",
+      "MA 166",
+      "ECE 301"
+    ],
+    "schedule": []
   },
   {
+    "id": 6,
     "reqCourses": [
-      "CS 250",
-      "MET 201"
+      "POL 272",
+      "LING 321"
     ],
     "desiredCourses": [
-      "CNIT 255",
-      "MA 265",
-      "CS 240"
+      "CS 250",
+      "CS 240",
+      "POL 300"
     ],
     "backupCourses": [
-      "POL 372",
-      "CS 252",
-      "CNIT 355"
-    ]
+      "MET 255",
+      "MET 351",
+      "LING 201"
+    ],
+    "schedule": []
   },
   {
+    "id": 7,
     "reqCourses": [
-      "MA 261",
-      "ECE 202"
+      "LING 201",
+      "POL 120"
     ],
     "desiredCourses": [
-      "CS 182",
-      "MET 255",
-      "CNIT 380"
+      "LING 321",
+      "MET 351",
+      "POL 372"
     ],
     "backupCourses": [
       "CNIT 355",
-      "MET 202",
-      "MET 203"
-    ]
+      "CS 252",
+      "MA 165"
+    ],
+    "schedule": []
   },
   {
+    "id": 8,
     "reqCourses": [
-      "MA 261",
-      "POL 231"
+      "CNIT 180",
+      "LING 311"
     ],
     "desiredCourses": [
-      "ECE 301",
-      "POL 300",
-      "CNIT 180"
-    ],
-    "backupCourses": [
-      "POL 120",
-      "CS 251",
-      "ECE 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 120",
-      "ECE 202"
-    ],
-    "desiredCourses": [
-      "MET 255",
-      "MA 261",
-      "LING 315"
+      "CS 180",
+      "MET 351",
+      "MET 201"
     ],
     "backupCourses": [
       "ECE 201",
-      "CS 250",
-      "CS 251"
-    ]
+      "ECE 221",
+      "MET 255"
+    ],
+    "schedule": []
   },
   {
+    "id": 9,
     "reqCourses": [
-      "CNIT 240",
+      "CS 180",
       "MET 202"
     ],
     "desiredCourses": [
-      "MET 255",
-      "CS 240",
-      "ECE 203"
+      "LING 201",
+      "CNIT 180",
+      "CS 250"
     ],
     "backupCourses": [
-      "ECE 315",
-      "POL 323",
-      "MET 310"
-    ]
+      "MA 265",
+      "CS 252",
+      "ECE 221"
+    ],
+    "schedule": []
   },
   {
+    "id": 10,
     "reqCourses": [
-      "POL 272",
-      "LING 201"
+      "LING 201",
+      "MA 261"
     ],
     "desiredCourses": [
-      "MA 361",
-      "ECE 201",
-      "MET 201"
+      "CS 182",
+      "CS 251",
+      "POL 323"
     ],
     "backupCourses": [
-      "CS 182",
-      "CNIT 355",
-      "LING 315"
-    ]
+      "MET 351",
+      "MA 361",
+      "MA 265"
+    ],
+    "schedule": []
   },
   {
+    "id": 11,
     "reqCourses": [
+      "MA 361",
+      "LING 215"
+    ],
+    "desiredCourses": [
+      "CS 252",
+      "MA 166",
+      "CS 250"
+    ],
+    "backupCourses": [
+      "LING 201",
+      "LING 315",
+      "MA 165"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 12,
+    "reqCourses": [
+      "POL 272",
+      "MET 351"
+    ],
+    "desiredCourses": [
       "CNIT 155",
+      "CNIT 180",
+      "CNIT 380"
+    ],
+    "backupCourses": [
+      "LING 201",
+      "CS 182",
+      "POL 120"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 13,
+    "reqCourses": [
+      "CS 250",
       "POL 372"
     ],
     "desiredCourses": [
-      "ECE 202",
-      "CNIT 355",
-      "LING 315"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "MA 166",
-      "MET 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 272",
-      "CNIT 180"
-    ],
-    "desiredCourses": [
-      "LING 201",
-      "CNIT 355",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "MET 203",
       "CS 180",
-      "MET 351"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 252",
-      "CS 240"
-    ],
-    "desiredCourses": [
-      "POL 300",
-      "MET 203",
-      "MET 351"
+      "LING 311",
+      "ECE 315"
     ],
     "backupCourses": [
-      "ECE 203",
-      "ECE 221",
-      "CS 180"
-    ]
+      "MA 261",
+      "CS 252",
+      "MA 166"
+    ],
+    "schedule": []
   },
   {
+    "id": 14,
     "reqCourses": [
-      "POL 372",
+      "POL 231",
       "CS 180"
     ],
     "desiredCourses": [
-      "POL 120",
-      "ECE 301",
-      "ECE 203"
-    ],
-    "backupCourses": [
-      "CNIT 240",
-      "POL 272",
-      "LING 311"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 182",
-      "POL 300"
-    ],
-    "desiredCourses": [
-      "MA 265",
-      "POL 231",
-      "MA 165"
-    ],
-    "backupCourses": [
-      "ECE 202",
-      "LING 315",
-      "MA 166"
-    ]
-  },
-  {
-    "reqCourses": [
       "MET 203",
-      "MA 265"
-    ],
-    "desiredCourses": [
-      "CNIT 240",
-      "LING 215",
-      "MA 361"
-    ],
-    "backupCourses": [
-      "MA 261",
-      "POL 272",
-      "POL 372"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "CS 252"
-    ],
-    "desiredCourses": [
-      "POL 120",
-      "CS 182",
-      "POL 372"
-    ],
-    "backupCourses": [
-      "LING 215",
-      "CNIT 380",
-      "CNIT 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
-      "POL 300"
-    ],
-    "desiredCourses": [
-      "CNIT 180",
-      "ECE 301",
-      "LING 315"
-    ],
-    "backupCourses": [
-      "POL 231",
-      "MA 361",
-      "MA 265"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 203",
-      "ECE 202"
-    ],
-    "desiredCourses": [
-      "CNIT 380",
-      "ECE 201",
-      "POL 231"
-    ],
-    "backupCourses": [
-      "LING 201",
-      "MA 166",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 165",
-      "MA 361"
-    ],
-    "desiredCourses": [
-      "MET 201",
-      "ECE 221",
-      "CNIT 355"
-    ],
-    "backupCourses": [
-      "MA 265",
-      "MET 203",
-      "CNIT 155"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 240",
-      "MET 255"
-    ],
-    "desiredCourses": [
-      "MA 361",
-      "POL 300",
-      "POL 272"
-    ],
-    "backupCourses": [
-      "MA 166",
-      "POL 231",
-      "ECE 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 215",
-      "LING 311"
-    ],
-    "desiredCourses": [
-      "CNIT 255",
-      "POL 323",
-      "CNIT 380"
-    ],
-    "backupCourses": [
-      "MET 201",
-      "POL 272",
-      "CNIT 180"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "MA 265"
-    ],
-    "desiredCourses": [
-      "MA 361",
-      "LING 315",
-      "LING 321"
-    ],
-    "backupCourses": [
-      "CNIT 255",
-      "MA 166",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 221",
-      "LING 215"
-    ],
-    "desiredCourses": [
-      "MET 310",
-      "CS 251",
-      "MET 202"
-    ],
-    "backupCourses": [
-      "POL 231",
-      "MA 166",
-      "LING 321"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 240",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "MET 351",
-      "ECE 221",
-      "LING 201"
-    ],
-    "backupCourses": [
-      "MET 310",
-      "POL 372",
-      "MET 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 240",
-      "CNIT 240"
-    ],
-    "desiredCourses": [
-      "CS 250",
-      "LING 315",
-      "MET 202"
-    ],
-    "backupCourses": [
-      "CNIT 355",
-      "ECE 201",
-      "CNIT 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 221",
-      "CS 252"
-    ],
-    "desiredCourses": [
-      "MA 166",
-      "LING 311",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "MA 165",
-      "MET 201",
-      "ECE 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 120",
-      "MA 165"
-    ],
-    "desiredCourses": [
-      "CS 252",
-      "CS 180",
-      "LING 321"
-    ],
-    "backupCourses": [
-      "LING 201",
-      "CNIT 255",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 355",
-      "MA 261"
-    ],
-    "desiredCourses": [
-      "MA 165",
-      "POL 272",
-      "LING 215"
-    ],
-    "backupCourses": [
-      "CS 252",
-      "ECE 201",
-      "ECE 301"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
-      "LING 321"
-    ],
-    "desiredCourses": [
-      "CS 251",
-      "MET 201",
-      "MA 265"
-    ],
-    "backupCourses": [
-      "MET 203",
-      "ECE 202",
-      "ECE 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 155",
-      "CS 240"
-    ],
-    "desiredCourses": [
-      "ECE 202",
-      "MA 261",
-      "MA 361"
-    ],
-    "backupCourses": [
-      "ECE 315",
-      "CS 251",
-      "MET 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 120",
-      "LING 201"
-    ],
-    "desiredCourses": [
-      "CNIT 240",
-      "MA 166",
-      "LING 311"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "LING 315",
-      "POL 272"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 250",
-      "ECE 202"
-    ],
-    "desiredCourses": [
-      "CNIT 240",
-      "LING 215",
-      "MA 265"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "CNIT 180",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 323",
-      "ECE 315"
-    ],
-    "desiredCourses": [
-      "LING 321",
-      "POL 120",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "MA 261",
-      "LING 315",
-      "MA 166"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 372",
-      "ECE 202"
-    ],
-    "desiredCourses": [
-      "MA 166",
-      "CNIT 180",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "CS 252",
-      "MA 165",
-      "CNIT 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
-      "POL 323"
-    ],
-    "desiredCourses": [
-      "POL 231",
-      "CS 182",
-      "MET 203"
-    ],
-    "backupCourses": [
-      "CNIT 255",
-      "CNIT 180",
-      "ECE 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 315",
-      "LING 311"
-    ],
-    "desiredCourses": [
-      "POL 231",
-      "CS 240",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "ECE 315",
-      "LING 215",
-      "CS 182"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "LING 311",
-      "ECE 221",
-      "MET 202"
-    ],
-    "backupCourses": [
-      "MA 361",
-      "LING 215",
-      "CNIT 180"
-    ]
-  },
-  {
-    "reqCourses": [
       "ECE 202",
       "CS 250"
     ],
-    "desiredCourses": [
-      "MET 351",
-      "MET 310",
-      "LING 215"
-    ],
     "backupCourses": [
-      "MA 166",
-      "MA 165",
-      "ECE 301"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 180",
-      "ECE 301"
-    ],
-    "desiredCourses": [
-      "MA 265",
-      "MET 201",
-      "POL 323"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "MA 261",
-      "ECE 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 355",
-      "MET 310"
-    ],
-    "desiredCourses": [
-      "ECE 221",
-      "LING 315",
-      "CNIT 380"
-    ],
-    "backupCourses": [
-      "POL 120",
       "CS 252",
-      "LING 321"
-    ]
+      "LING 315",
+      "POL 272"
+    ],
+    "schedule": []
   },
   {
+    "id": 15,
     "reqCourses": [
-      "MET 202",
-      "MET 203"
+      "LING 315",
+      "CNIT 240"
     ],
     "desiredCourses": [
-      "LING 201",
       "POL 231",
+      "MET 255",
+      "MA 165"
+    ],
+    "backupCourses": [
+      "LING 215",
+      "LING 321",
       "MET 201"
     ],
-    "backupCourses": [
-      "CNIT 380",
-      "LING 321",
-      "MA 166"
-    ]
+    "schedule": []
   },
   {
+    "id": 16,
     "reqCourses": [
-      "CNIT 355",
-      "POL 231"
-    ],
-    "desiredCourses": [
-      "ECE 203",
-      "MA 165",
-      "CS 182"
-    ],
-    "backupCourses": [
-      "LING 215",
-      "POL 120",
-      "MA 166"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 301",
-      "MET 310"
-    ],
-    "desiredCourses": [
       "MA 261",
-      "ECE 315",
-      "CS 252"
-    ],
-    "backupCourses": [
-      "CNIT 155",
-      "MET 201",
-      "MA 165"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 201",
-      "MET 202"
-    ],
-    "desiredCourses": [
-      "MET 203",
-      "POL 372",
-      "ECE 202"
-    ],
-    "backupCourses": [
-      "LING 315",
-      "MA 166",
-      "POL 300"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 255",
-      "CNIT 380"
-    ],
-    "desiredCourses": [
-      "POL 272",
-      "ECE 301",
-      "MA 166"
-    ],
-    "backupCourses": [
-      "LING 215",
-      "POL 231",
-      "ECE 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
-      "CNIT 355"
-    ],
-    "desiredCourses": [
-      "MET 201",
-      "LING 215",
-      "MA 261"
-    ],
-    "backupCourses": [
-      "MA 265",
-      "CS 180",
-      "ECE 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 221",
-      "MET 310"
-    ],
-    "desiredCourses": [
-      "MET 203",
-      "MET 202",
-      "CS 251"
-    ],
-    "backupCourses": [
-      "POL 300",
-      "CS 252",
-      "LING 321"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 315",
-      "MA 261"
-    ],
-    "desiredCourses": [
-      "MA 165",
-      "MET 203",
-      "MET 202"
-    ],
-    "backupCourses": [
-      "CS 251",
-      "ECE 202",
-      "MET 351"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 315",
-      "POL 300"
-    ],
-    "desiredCourses": [
-      "POL 372",
-      "CNIT 255",
-      "CNIT 180"
-    ],
-    "backupCourses": [
-      "MET 203",
-      "POL 272",
-      "MET 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "LING 201"
-    ],
-    "desiredCourses": [
-      "POL 272",
-      "CNIT 255",
-      "MA 166"
-    ],
-    "backupCourses": [
-      "ECE 221",
-      "CS 250",
-      "POL 300"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 355",
-      "LING 311"
-    ],
-    "desiredCourses": [
-      "CNIT 240",
-      "CS 251",
-      "CNIT 380"
-    ],
-    "backupCourses": [
-      "ECE 221",
-      "MA 361",
-      "MET 310"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 202",
-      "LING 215"
-    ],
-    "desiredCourses": [
-      "LING 315",
-      "POL 300",
-      "CS 250"
-    ],
-    "backupCourses": [
-      "ECE 221",
-      "ECE 203",
-      "LING 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
-      "ECE 202"
-    ],
-    "desiredCourses": [
-      "LING 215",
-      "MET 202",
-      "ECE 315"
-    ],
-    "backupCourses": [
-      "CS 250",
-      "POL 372",
-      "CS 252"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 315",
-      "POL 272"
-    ],
-    "desiredCourses": [
-      "MA 166",
-      "MET 202",
-      "CS 251"
-    ],
-    "backupCourses": [
-      "LING 321",
-      "MA 361",
-      "POL 231"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "CS 252"
-    ],
-    "desiredCourses": [
-      "ECE 221",
-      "CS 251",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "POL 120",
-      "MA 265",
-      "POL 300"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 120",
       "MA 265"
     ],
     "desiredCourses": [
-      "LING 201",
-      "ECE 202",
-      "LING 215"
+      "MET 351",
+      "CNIT 180",
+      "CNIT 155"
     ],
     "backupCourses": [
-      "CNIT 355",
-      "MA 361",
-      "ECE 301"
-    ]
+      "ECE 203",
+      "POL 323",
+      "POL 372"
+    ],
+    "schedule": []
   },
   {
+    "id": 17,
     "reqCourses": [
-      "POL 372",
+      "POL 231",
       "CNIT 380"
     ],
     "desiredCourses": [
-      "MA 361",
-      "CS 240",
-      "ECE 203"
+      "LING 315",
+      "ECE 202",
+      "ECE 221"
     ],
     "backupCourses": [
-      "ECE 221",
-      "LING 321",
+      "CNIT 240",
+      "CNIT 180",
       "CS 252"
-    ]
+    ],
+    "schedule": []
   },
   {
+    "id": 18,
     "reqCourses": [
-      "CS 182",
-      "ECE 201"
+      "POL 372",
+      "ECE 301"
     ],
     "desiredCourses": [
+      "CS 182",
+      "CS 252",
+      "CS 250"
+    ],
+    "backupCourses": [
+      "LING 201",
       "POL 323",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 19,
+    "reqCourses": [
+      "POL 120",
+      "MET 201"
+    ],
+    "desiredCourses": [
+      "MA 165",
+      "ECE 202",
+      "LING 315"
+    ],
+    "backupCourses": [
+      "CNIT 380",
+      "CS 250",
+      "MA 166"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 20,
+    "reqCourses": [
+      "CNIT 380",
+      "CNIT 155"
+    ],
+    "desiredCourses": [
+      "ECE 221",
+      "MET 351",
+      "CNIT 180"
+    ],
+    "backupCourses": [
+      "MA 165",
+      "CNIT 355",
+      "MET 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 21,
+    "reqCourses": [
+      "CS 180",
+      "ECE 221"
+    ],
+    "desiredCourses": [
+      "ECE 315",
+      "MET 255",
+      "POL 120"
+    ],
+    "backupCourses": [
+      "LING 315",
+      "CNIT 380",
+      "POL 272"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 22,
+    "reqCourses": [
+      "POL 120",
+      "CNIT 155"
+    ],
+    "desiredCourses": [
+      "CS 251",
+      "MET 310",
+      "CNIT 180"
+    ],
+    "backupCourses": [
+      "CNIT 240",
+      "ECE 315",
+      "MA 261"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 23,
+    "reqCourses": [
+      "MET 202",
+      "CS 180"
+    ],
+    "desiredCourses": [
+      "CNIT 240",
       "MET 351",
       "MA 166"
     ],
     "backupCourses": [
-      "MET 255",
-      "MET 202",
-      "CNIT 180"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
-      "CNIT 380"
-    ],
-    "desiredCourses": [
-      "MA 165",
-      "CNIT 155",
-      "CNIT 355"
-    ],
-    "backupCourses": [
-      "MET 310",
-      "ECE 202",
-      "MA 361"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
-      "POL 231"
-    ],
-    "desiredCourses": [
-      "CNIT 240",
-      "MET 310",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "CNIT 255",
-      "MET 203",
-      "MA 361"
-    ]
-  },
-  {
-    "reqCourses": [
       "CS 240",
-      "POL 272"
+      "CNIT 380",
+      "POL 300"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 24,
+    "reqCourses": [
+      "MET 255",
+      "CS 240"
     ],
     "desiredCourses": [
-      "LING 321",
-      "MA 261",
-      "MET 203"
+      "CNIT 180",
+      "CNIT 380",
+      "POL 372"
     ],
     "backupCourses": [
       "MA 265",
-      "CS 182",
-      "CNIT 355"
-    ]
-  },
-  {
-    "reqCourses": [
       "LING 311",
-      "ECE 301"
+      "MET 201"
     ],
-    "desiredCourses": [
-      "LING 315",
-      "POL 372",
-      "LING 201"
-    ],
-    "backupCourses": [
-      "CNIT 240",
-      "LING 215",
-      "MET 202"
-    ]
+    "schedule": []
   },
   {
+    "id": 25,
     "reqCourses": [
-      "POL 231",
+      "ECE 202",
       "LING 215"
     ],
     "desiredCourses": [
-      "ECE 301",
-      "MET 203",
-      "CNIT 355"
+      "MET 351",
+      "CNIT 255",
+      "MA 165"
     ],
     "backupCourses": [
-      "POL 372",
-      "CNIT 255",
-      "POL 323"
-    ]
+      "CS 251",
+      "MA 166",
+      "POL 120"
+    ],
+    "schedule": []
   },
   {
+    "id": 26,
     "reqCourses": [
-      "MA 261",
+      "POL 323",
+      "POL 372"
+    ],
+    "desiredCourses": [
+      "CNIT 255",
+      "POL 300",
+      "MET 203"
+    ],
+    "backupCourses": [
+      "ECE 202",
+      "CS 182",
+      "CNIT 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 27,
+    "reqCourses": [
+      "POL 300",
+      "MA 166"
+    ],
+    "desiredCourses": [
+      "CS 251",
+      "POL 272",
+      "MET 310"
+    ],
+    "backupCourses": [
+      "ECE 315",
+      "LING 311",
+      "CNIT 380"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 28,
+    "reqCourses": [
+      "MET 310",
+      "LING 215"
+    ],
+    "desiredCourses": [
+      "LING 201",
+      "ECE 202",
+      "MA 165"
+    ],
+    "backupCourses": [
+      "MA 265",
+      "CNIT 255",
+      "POL 300"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 29,
+    "reqCourses": [
+      "CNIT 255",
       "LING 315"
     ],
     "desiredCourses": [
       "MA 165",
-      "LING 321",
-      "CNIT 180"
+      "CS 182",
+      "MET 255"
     ],
     "backupCourses": [
-      "CNIT 380",
-      "CS 251",
-      "MET 202"
-    ]
+      "LING 311",
+      "POL 300",
+      "ECE 203"
+    ],
+    "schedule": []
   },
   {
+    "id": 30,
     "reqCourses": [
-      "CS 180",
-      "ECE 201"
+      "MA 261",
+      "CS 252"
     ],
     "desiredCourses": [
+      "POL 323",
+      "CNIT 380",
+      "MET 255"
+    ],
+    "backupCourses": [
+      "POL 272",
+      "LING 315",
+      "CS 251"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 31,
+    "reqCourses": [
       "ECE 301",
+      "CS 250"
+    ],
+    "desiredCourses": [
+      "CS 182",
+      "POL 272",
+      "POL 300"
+    ],
+    "backupCourses": [
+      "LING 215",
+      "MET 351",
+      "LING 315"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 32,
+    "reqCourses": [
+      "CS 240",
+      "MET 202"
+    ],
+    "desiredCourses": [
+      "CNIT 180",
+      "MET 201",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "MA 166",
+      "CNIT 240",
+      "CNIT 155"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 33,
+    "reqCourses": [
+      "ECE 201",
+      "POL 120"
+    ],
+    "desiredCourses": [
+      "CS 252",
+      "MET 310",
+      "POL 231"
+    ],
+    "backupCourses": [
+      "POL 300",
+      "CS 240",
+      "LING 315"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 34,
+    "reqCourses": [
+      "MA 265",
+      "MA 361"
+    ],
+    "desiredCourses": [
+      "CS 250",
+      "CNIT 240",
+      "LING 201"
+    ],
+    "backupCourses": [
+      "ECE 202",
+      "CS 252",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 35,
+    "reqCourses": [
       "POL 372",
+      "MET 202"
+    ],
+    "desiredCourses": [
+      "MET 310",
+      "CNIT 240",
+      "LING 201"
+    ],
+    "backupCourses": [
+      "MA 165",
+      "MET 351",
+      "ECE 301"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 36,
+    "reqCourses": [
+      "CS 250",
+      "LING 215"
+    ],
+    "desiredCourses": [
+      "POL 272",
+      "LING 311",
+      "MET 203"
+    ],
+    "backupCourses": [
+      "ECE 202",
+      "CS 180",
+      "MET 202"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 37,
+    "reqCourses": [
+      "ECE 201",
+      "MET 203"
+    ],
+    "desiredCourses": [
+      "CNIT 240",
+      "CNIT 180",
       "CS 251"
     ],
     "backupCourses": [
-      "CS 182",
       "MA 166",
-      "CNIT 380"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "CS 252"
-    ],
-    "desiredCourses": [
-      "CNIT 180",
-      "MA 166",
-      "CNIT 255"
-    ],
-    "backupCourses": [
-      "POL 300",
-      "ECE 315",
-      "CNIT 380"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 255",
-      "CNIT 380"
-    ],
-    "desiredCourses": [
-      "POL 120",
-      "ECE 203",
-      "LING 321"
-    ],
-    "backupCourses": [
-      "CS 180",
-      "POL 272",
-      "MA 261"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 265",
-      "MET 310"
-    ],
-    "desiredCourses": [
-      "LING 201",
       "CNIT 155",
-      "POL 120"
+      "CS 182"
     ],
-    "backupCourses": [
-      "POL 372",
-      "CNIT 180",
-      "MA 166"
-    ]
+    "schedule": []
   },
   {
+    "id": 38,
     "reqCourses": [
-      "ECE 203",
-      "LING 315"
-    ],
-    "desiredCourses": [
-      "CNIT 155",
-      "CS 251",
-      "ECE 201"
-    ],
-    "backupCourses": [
-      "MET 255",
-      "CNIT 380",
-      "MA 166"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 215",
-      "POL 272"
-    ],
-    "desiredCourses": [
-      "LING 311",
-      "POL 231",
-      "CS 252"
-    ],
-    "backupCourses": [
-      "CNIT 240",
-      "MA 361",
-      "CS 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 361",
-      "CS 252"
-    ],
-    "desiredCourses": [
-      "ECE 203",
-      "MET 255",
-      "CNIT 380"
-    ],
-    "backupCourses": [
-      "ECE 315",
-      "MET 203",
-      "MET 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 250",
-      "LING 321"
-    ],
-    "desiredCourses": [
-      "CS 182",
-      "MET 255",
-      "ECE 315"
-    ],
-    "backupCourses": [
-      "MET 201",
-      "ECE 301",
-      "LING 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 182",
-      "CNIT 155"
-    ],
-    "desiredCourses": [
-      "MA 166",
-      "LING 215",
-      "ECE 301"
-    ],
-    "backupCourses": [
-      "ECE 221",
-      "POL 231",
-      "LING 311"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 201",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "CNIT 355",
-      "POL 300",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "MA 361",
-      "MA 261",
-      "CNIT 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 300",
-      "ECE 315"
-    ],
-    "desiredCourses": [
-      "ECE 201",
-      "MET 201",
-      "LING 311"
-    ],
-    "backupCourses": [
-      "POL 372",
-      "LING 215",
-      "CNIT 155"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 355",
+      "LING 315",
       "CS 240"
     ],
     "desiredCourses": [
       "MET 202",
+      "POL 272",
+      "MA 361"
+    ],
+    "backupCourses": [
+      "POL 372",
+      "MET 201",
+      "CNIT 355"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 39,
+    "reqCourses": [
+      "CNIT 240",
+      "MET 202"
+    ],
+    "desiredCourses": [
+      "CNIT 180",
+      "MA 261",
+      "LING 201"
+    ],
+    "backupCourses": [
+      "ECE 203",
+      "MA 165",
+      "POL 372"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 40,
+    "reqCourses": [
+      "LING 215",
+      "ECE 301"
+    ],
+    "desiredCourses": [
       "CS 180",
-      "LING 311"
+      "POL 323",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "MA 165",
+      "POL 372",
+      "MET 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 41,
+    "reqCourses": [
+      "CNIT 180",
+      "CS 180"
+    ],
+    "desiredCourses": [
+      "ECE 201",
+      "LING 201",
+      "POL 323"
+    ],
+    "backupCourses": [
+      "LING 215",
+      "CS 182",
+      "MA 166"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 42,
+    "reqCourses": [
+      "MA 166",
+      "POL 300"
+    ],
+    "desiredCourses": [
+      "MET 255",
+      "MET 201",
+      "LING 215"
     ],
     "backupCourses": [
       "MET 203",
-      "MA 165",
-      "CS 251"
-    ]
+      "LING 315",
+      "POL 323"
+    ],
+    "schedule": []
   },
   {
+    "id": 43,
     "reqCourses": [
+      "CS 250",
+      "CNIT 240"
+    ],
+    "desiredCourses": [
+      "MET 310",
+      "CNIT 180",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "MA 165",
+      "POL 120",
+      "MET 351"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 44,
+    "reqCourses": [
+      "LING 311",
+      "LING 215"
+    ],
+    "desiredCourses": [
+      "MET 203",
+      "POL 272",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "MET 310",
+      "MET 201",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 45,
+    "reqCourses": [
+      "MA 165",
+      "CS 252"
+    ],
+    "desiredCourses": [
+      "POL 272",
+      "CS 240",
+      "MA 265"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "CNIT 155",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 46,
+    "reqCourses": [
+      "ECE 221",
+      "CS 180"
+    ],
+    "desiredCourses": [
+      "LING 201",
+      "CS 250",
+      "POL 323"
+    ],
+    "backupCourses": [
+      "LING 311",
+      "CNIT 255",
+      "LING 321"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 47,
+    "reqCourses": [
+      "ECE 202",
+      "POL 120"
+    ],
+    "desiredCourses": [
+      "POL 231",
+      "ECE 315",
+      "LING 215"
+    ],
+    "backupCourses": [
+      "MET 310",
+      "MET 201",
+      "CS 250"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 48,
+    "reqCourses": [
+      "CS 240",
+      "ECE 221"
+    ],
+    "desiredCourses": [
+      "CNIT 155",
+      "MET 255",
+      "POL 300"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "LING 215",
+      "CNIT 355"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 49,
+    "reqCourses": [
+      "ECE 203",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "CNIT 255",
+      "CNIT 155",
+      "POL 120"
+    ],
+    "backupCourses": [
+      "MA 166",
+      "ECE 301",
+      "POL 231"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 50,
+    "reqCourses": [
+      "ECE 301",
+      "CS 240"
+    ],
+    "desiredCourses": [
+      "LING 215",
+      "CNIT 180",
+      "MET 255"
+    ],
+    "backupCourses": [
+      "LING 315",
+      "POL 300",
+      "CS 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 51,
+    "reqCourses": [
+      "POL 231",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "CNIT 155",
+      "MET 203",
+      "POL 300"
+    ],
+    "backupCourses": [
+      "ECE 315",
+      "CS 252",
+      "CS 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 52,
+    "reqCourses": [
+      "ECE 202",
+      "LING 215"
+    ],
+    "desiredCourses": [
+      "MET 203",
       "ECE 201",
+      "CNIT 255"
+    ],
+    "backupCourses": [
+      "MA 361",
+      "POL 231",
+      "CNIT 355"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 53,
+    "reqCourses": [
+      "LING 201",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "ECE 203",
+      "POL 272",
+      "POL 231"
+    ],
+    "backupCourses": [
+      "MET 202",
+      "MET 351",
+      "MA 165"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 54,
+    "reqCourses": [
+      "POL 372",
+      "MET 202"
+    ],
+    "desiredCourses": [
+      "POL 120",
+      "CNIT 355",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "CS 252",
+      "POL 272",
+      "ECE 221"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 55,
+    "reqCourses": [
+      "LING 215",
+      "MA 165"
+    ],
+    "desiredCourses": [
+      "ECE 202",
+      "MA 261",
+      "MET 310"
+    ],
+    "backupCourses": [
+      "ECE 301",
+      "CS 252",
+      "POL 231"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 56,
+    "reqCourses": [
+      "CS 180",
+      "POL 323"
+    ],
+    "desiredCourses": [
+      "MET 351",
+      "MA 261",
+      "CNIT 180"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "CS 250",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 57,
+    "reqCourses": [
+      "MA 165",
       "MET 201"
     ],
     "desiredCourses": [
       "MET 255",
-      "CS 240",
-      "CS 250"
+      "ECE 201",
+      "ECE 221"
     ],
     "backupCourses": [
-      "CS 251",
-      "CS 252",
-      "MA 261"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 265",
+      "LING 311",
+      "LING 215",
       "CNIT 355"
     ],
+    "schedule": []
+  },
+  {
+    "id": 58,
+    "reqCourses": [
+      "CS 180",
+      "LING 315"
+    ],
     "desiredCourses": [
+      "CNIT 240",
+      "ECE 315",
+      "LING 201"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "ECE 201",
+      "CNIT 380"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 59,
+    "reqCourses": [
+      "MA 265",
+      "CNIT 255"
+    ],
+    "desiredCourses": [
+      "MET 203",
       "LING 315",
+      "MA 165"
+    ],
+    "backupCourses": [
+      "CS 180",
+      "LING 311",
+      "CNIT 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 60,
+    "reqCourses": [
+      "ECE 315",
+      "MA 166"
+    ],
+    "desiredCourses": [
       "CS 252",
-      "CS 182"
+      "LING 311",
+      "ECE 203"
     ],
     "backupCourses": [
       "POL 120",
-      "CS 180",
-      "MET 255"
-    ]
+      "ECE 201",
+      "POL 300"
+    ],
+    "schedule": []
   },
   {
+    "id": 61,
     "reqCourses": [
-      "MET 310",
-      "CNIT 240"
+      "MET 202",
+      "CS 240"
     ],
     "desiredCourses": [
-      "MET 201",
-      "MA 165",
-      "ECE 203"
-    ],
-    "backupCourses": [
-      "ECE 221",
-      "MET 203",
-      "CS 251"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 300",
-      "POL 272"
-    ],
-    "desiredCourses": [
-      "POL 372",
-      "MET 203",
-      "MET 351"
-    ],
-    "backupCourses": [
-      "MA 165",
-      "LING 201",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
-      "MA 261"
-    ],
-    "desiredCourses": [
-      "CS 252",
-      "MET 351",
+      "LING 321",
+      "MA 265",
       "CS 180"
     ],
     "backupCourses": [
-      "MET 201",
-      "LING 201",
-      "POL 323"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 202",
-      "CNIT 240"
-    ],
-    "desiredCourses": [
-      "CNIT 255",
-      "CS 182",
-      "CS 252"
-    ],
-    "backupCourses": [
-      "ECE 221",
-      "POL 372",
-      "MA 166"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "ECE 315",
-      "MET 351",
-      "LING 215"
-    ],
-    "backupCourses": [
       "MET 310",
-      "CNIT 240",
-      "CS 252"
-    ]
+      "ECE 315",
+      "MET 203"
+    ],
+    "schedule": []
   },
   {
+    "id": 62,
     "reqCourses": [
-      "ECE 201",
-      "CNIT 155"
+      "CNIT 240",
+      "ECE 203"
     ],
     "desiredCourses": [
-      "ECE 221",
-      "CNIT 240",
-      "LING 215"
-    ],
-    "backupCourses": [
-      "POL 300",
-      "CS 250",
-      "MET 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 155",
+      "MET 351",
+      "CS 252",
       "MET 202"
     ],
-    "desiredCourses": [
-      "LING 311",
-      "MET 201",
-      "CS 182"
-    ],
     "backupCourses": [
-      "MET 203",
-      "MET 310",
-      "CNIT 355"
-    ]
+      "CS 180",
+      "ECE 202",
+      "CNIT 155"
+    ],
+    "schedule": []
   },
   {
+    "id": 63,
     "reqCourses": [
       "CNIT 180",
-      "ECE 301"
+      "CS 250"
     ],
     "desiredCourses": [
       "CS 252",
-      "LING 321",
-      "CS 182"
-    ],
-    "backupCourses": [
-      "MET 310",
-      "MET 203",
-      "POL 272"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 272",
-      "CS 252"
-    ],
-    "desiredCourses": [
-      "LING 315",
-      "CS 250",
-      "CS 182"
-    ],
-    "backupCourses": [
-      "ECE 202",
-      "CNIT 255",
-      "POL 120"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 361",
+      "POL 372",
       "LING 201"
     ],
-    "desiredCourses": [
-      "CNIT 380",
-      "ECE 201",
-      "ECE 203"
-    ],
     "backupCourses": [
-      "MA 261",
-      "MET 203",
-      "MET 310"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "MA 265"
-    ],
-    "desiredCourses": [
       "POL 231",
-      "CS 180",
-      "ECE 221"
+      "LING 311",
+      "MA 261"
     ],
-    "backupCourses": [
-      "POL 300",
-      "MET 201",
-      "POL 323"
-    ]
+    "schedule": []
   },
   {
+    "id": 64,
     "reqCourses": [
-      "CS 182",
+      "ECE 201",
       "MET 351"
     ],
     "desiredCourses": [
-      "CNIT 380",
-      "ECE 202",
-      "CNIT 255"
+      "MET 201",
+      "CS 240",
+      "MA 265"
     ],
     "backupCourses": [
-      "MET 203",
-      "ECE 315",
-      "MET 255"
-    ]
+      "ECE 221",
+      "MET 255",
+      "POL 372"
+    ],
+    "schedule": []
   },
   {
+    "id": 65,
     "reqCourses": [
-      "ECE 202",
-      "CNIT 240"
+      "CNIT 180",
+      "MA 165"
     ],
     "desiredCourses": [
-      "CS 240",
-      "POL 300",
-      "MA 361"
+      "ECE 201",
+      "CS 250",
+      "MA 265"
     ],
     "backupCourses": [
       "LING 215",
-      "MA 166",
-      "CNIT 255"
-    ]
+      "CS 182",
+      "ECE 221"
+    ],
+    "schedule": []
   },
   {
+    "id": 66,
     "reqCourses": [
-      "MET 351",
-      "CNIT 380"
+      "POL 231",
+      "LING 311"
     ],
     "desiredCourses": [
-      "MET 203",
-      "ECE 301",
+      "POL 372",
+      "MA 361",
       "MA 165"
     ],
     "backupCourses": [
-      "MA 166",
       "CS 252",
-      "CNIT 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 182",
-      "MET 202"
-    ],
-    "desiredCourses": [
-      "LING 201",
-      "LING 321",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "CS 250",
       "CNIT 255",
-      "ECE 202"
-    ]
+      "CNIT 240"
+    ],
+    "schedule": []
   },
   {
+    "id": 67,
     "reqCourses": [
-      "POL 120",
-      "ECE 301"
-    ],
-    "desiredCourses": [
-      "ECE 202",
-      "LING 215",
-      "ECE 203"
-    ],
-    "backupCourses": [
-      "CNIT 355",
-      "MA 265",
-      "MET 351"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 300",
-      "MA 261"
-    ],
-    "desiredCourses": [
-      "CS 182",
-      "MET 202",
-      "CS 250"
-    ],
-    "backupCourses": [
-      "LING 311",
-      "CS 252",
-      "CNIT 155"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 180",
-      "CNIT 255"
-    ],
-    "desiredCourses": [
       "MA 165",
-      "POL 323",
-      "MA 166"
-    ],
-    "backupCourses": [
-      "CS 240",
-      "ECE 301",
-      "MA 261"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
       "CS 240"
     ],
     "desiredCourses": [
-      "MET 203",
-      "CS 182",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "CS 180",
-      "LING 321",
-      "CS 250"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
-      "MA 166"
-    ],
-    "desiredCourses": [
       "CNIT 155",
-      "CS 252",
-      "MA 165"
-    ],
-    "backupCourses": [
-      "POL 323",
-      "CNIT 180",
-      "MET 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 180",
-      "ECE 203"
-    ],
-    "desiredCourses": [
-      "LING 215",
-      "POL 372",
-      "ECE 202"
-    ],
-    "backupCourses": [
-      "CS 250",
-      "LING 201",
+      "MA 265",
       "MET 351"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 166",
-      "CNIT 240"
-    ],
-    "desiredCourses": [
-      "CS 252",
-      "CNIT 355",
-      "MET 202"
     ],
     "backupCourses": [
-      "MA 361",
-      "ECE 201",
-      "POL 272"
-    ]
+      "MET 203",
+      "LING 315",
+      "CNIT 180"
+    ],
+    "schedule": []
   },
   {
+    "id": 68,
     "reqCourses": [
-      "CNIT 180",
+      "ECE 202",
       "POL 372"
     ],
     "desiredCourses": [
+      "MET 201",
+      "CNIT 180",
+      "ECE 315"
+    ],
+    "backupCourses": [
+      "CNIT 255",
+      "CS 182",
+      "CS 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 69,
+    "reqCourses": [
+      "CNIT 240",
+      "MET 201"
+    ],
+    "desiredCourses": [
+      "CNIT 380",
       "POL 300",
-      "ECE 201",
+      "MET 351"
+    ],
+    "backupCourses": [
+      "LING 201",
+      "CNIT 155",
+      "POL 231"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 70,
+    "reqCourses": [
+      "MA 361",
+      "POL 300"
+    ],
+    "desiredCourses": [
+      "MA 261",
+      "LING 311",
+      "CS 252"
+    ],
+    "backupCourses": [
+      "LING 315",
+      "ECE 315",
       "MET 255"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 71,
+    "reqCourses": [
+      "ECE 315",
+      "MET 202"
+    ],
+    "desiredCourses": [
+      "LING 311",
+      "POL 231",
+      "CNIT 255"
+    ],
+    "backupCourses": [
+      "CNIT 240",
+      "CNIT 155",
+      "ECE 301"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 72,
+    "reqCourses": [
+      "MET 255",
+      "CS 252"
+    ],
+    "desiredCourses": [
+      "ECE 221",
+      "CS 240",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "LING 321",
+      "POL 120",
+      "MA 361"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 73,
+    "reqCourses": [
+      "CNIT 355",
+      "ECE 301"
+    ],
+    "desiredCourses": [
+      "POL 300",
+      "MET 203",
+      "LING 315"
+    ],
+    "backupCourses": [
+      "POL 231",
+      "CNIT 255",
+      "CS 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 74,
+    "reqCourses": [
+      "CNIT 155",
+      "LING 311"
+    ],
+    "desiredCourses": [
+      "MET 351",
+      "MET 255",
+      "CNIT 180"
+    ],
+    "backupCourses": [
+      "POL 120",
+      "CS 250",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 75,
+    "reqCourses": [
+      "MA 361",
+      "MA 265"
+    ],
+    "desiredCourses": [
+      "CS 252",
+      "CS 251",
+      "CNIT 380"
     ],
     "backupCourses": [
       "MET 351",
-      "CNIT 380",
-      "CNIT 355"
-    ]
+      "ECE 221",
+      "POL 323"
+    ],
+    "schedule": []
   },
   {
+    "id": 76,
     "reqCourses": [
-      "CNIT 355",
+      "CS 252",
+      "CNIT 155"
+    ],
+    "desiredCourses": [
+      "MA 361",
+      "MET 202",
+      "MA 265"
+    ],
+    "backupCourses": [
+      "MA 166",
+      "LING 315",
+      "ECE 202"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 77,
+    "reqCourses": [
+      "LING 315",
+      "CS 180"
+    ],
+    "desiredCourses": [
+      "MA 261",
+      "MA 361",
+      "POL 300"
+    ],
+    "backupCourses": [
+      "CS 251",
+      "POL 272",
+      "LING 321"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 78,
+    "reqCourses": [
+      "ECE 201",
+      "CNIT 155"
+    ],
+    "desiredCourses": [
+      "CNIT 180",
+      "CS 252",
+      "POL 372"
+    ],
+    "backupCourses": [
+      "POL 231",
+      "ECE 202",
+      "ECE 221"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 79,
+    "reqCourses": [
+      "MET 310",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "CNIT 255",
+      "POL 231",
+      "POL 300"
+    ],
+    "backupCourses": [
+      "POL 323",
+      "MET 255",
+      "CNIT 155"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 80,
+    "reqCourses": [
+      "CNIT 380",
       "CS 251"
     ],
     "desiredCourses": [
-      "MA 261",
-      "CNIT 255",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "ECE 202",
-      "MET 255",
-      "ECE 301"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "LING 321"
-    ],
-    "desiredCourses": [
-      "CNIT 255",
-      "MET 201",
-      "MET 351"
-    ],
-    "backupCourses": [
-      "POL 323",
-      "CS 252",
-      "LING 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 315",
-      "LING 315"
-    ],
-    "desiredCourses": [
-      "ECE 203",
-      "POL 231",
-      "MA 165"
-    ],
-    "backupCourses": [
-      "CS 250",
-      "CNIT 355",
-      "MET 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 272",
-      "MA 165"
-    ],
-    "desiredCourses": [
-      "LING 321",
-      "LING 201",
+      "MA 361",
+      "POL 372",
       "CNIT 180"
     ],
     "backupCourses": [
-      "MA 265",
-      "POL 120",
-      "POL 372"
-    ]
+      "ECE 221",
+      "CS 252",
+      "LING 215"
+    ],
+    "schedule": []
   },
   {
+    "id": 81,
     "reqCourses": [
-      "ECE 201",
-      "CNIT 355"
+      "CS 252",
+      "CNIT 240"
     ],
     "desiredCourses": [
-      "CNIT 240",
-      "CS 251",
-      "ECE 221"
+      "ECE 201",
+      "POL 272",
+      "CS 182"
     ],
     "backupCourses": [
-      "CNIT 155",
-      "CNIT 180",
-      "MA 261"
-    ]
+      "MA 165",
+      "CS 250",
+      "POL 120"
+    ],
+    "schedule": []
   },
   {
+    "id": 82,
     "reqCourses": [
       "CNIT 355",
+      "LING 315"
+    ],
+    "desiredCourses": [
+      "ECE 201",
+      "ECE 301",
+      "MA 166"
+    ],
+    "backupCourses": [
+      "CNIT 240",
+      "CS 182",
+      "CNIT 380"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 83,
+    "reqCourses": [
+      "CS 252",
+      "MET 201"
+    ],
+    "desiredCourses": [
+      "CNIT 380",
+      "MA 166",
+      "LING 321"
+    ],
+    "backupCourses": [
+      "MA 265",
+      "MA 361",
+      "CS 182"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 84,
+    "reqCourses": [
+      "MA 261",
+      "MA 165"
+    ],
+    "desiredCourses": [
+      "MET 351",
+      "ECE 202",
+      "ECE 203"
+    ],
+    "backupCourses": [
+      "ECE 301",
+      "ECE 201",
+      "CNIT 155"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 85,
+    "reqCourses": [
+      "POL 120",
       "MET 202"
     ],
     "desiredCourses": [
-      "MET 310",
-      "CS 240",
+      "CS 180",
+      "POL 323",
       "POL 272"
     ],
     "backupCourses": [
-      "ECE 202",
-      "MA 361",
-      "MA 166"
-    ]
+      "MET 351",
+      "CS 240",
+      "CS 252"
+    ],
+    "schedule": []
   },
   {
+    "id": 86,
     "reqCourses": [
-      "CS 182",
-      "POL 120"
+      "LING 311",
+      "MET 351"
     ],
     "desiredCourses": [
       "MA 165",
       "MA 261",
-      "LING 201"
+      "ECE 315"
     ],
     "backupCourses": [
       "MA 361",
-      "MET 255",
-      "POL 231"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 315",
-      "LING 315"
-    ],
-    "desiredCourses": [
-      "ECE 221",
-      "MA 166",
-      "ECE 203"
-    ],
-    "backupCourses": [
-      "LING 215",
-      "MET 202",
-      "POL 372"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 221",
-      "ECE 201"
-    ],
-    "desiredCourses": [
-      "ECE 315",
-      "LING 321",
-      "CNIT 255"
-    ],
-    "backupCourses": [
-      "MET 202",
-      "LING 315",
-      "CS 182"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 221",
-      "MA 361"
-    ],
-    "desiredCourses": [
-      "CNIT 355",
-      "MET 310",
-      "MET 351"
-    ],
-    "backupCourses": [
-      "CNIT 180",
-      "MA 166",
-      "LING 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 240",
-      "LING 201"
-    ],
-    "desiredCourses": [
-      "CS 252",
-      "CS 251",
+      "LING 201",
       "MA 265"
     ],
-    "backupCourses": [
-      "CS 182",
-      "MET 310",
-      "ECE 301"
-    ]
+    "schedule": []
   },
   {
+    "id": 87,
     "reqCourses": [
-      "ECE 315",
-      "MA 361"
+      "MA 265",
+      "CS 251"
     ],
     "desiredCourses": [
-      "LING 321",
       "POL 323",
-      "MET 310"
-    ],
-    "backupCourses": [
-      "LING 215",
-      "ECE 202",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "MET 202"
-    ],
-    "desiredCourses": [
-      "MA 265",
-      "POL 231",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "MA 261",
-      "MET 201",
-      "ECE 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 265",
-      "MET 351"
-    ],
-    "desiredCourses": [
-      "CS 182",
-      "CS 180",
-      "ECE 301"
-    ],
-    "backupCourses": [
-      "MET 310",
-      "MET 201",
-      "CNIT 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 361",
-      "MA 166"
-    ],
-    "desiredCourses": [
-      "POL 120",
-      "MA 261",
-      "MET 201"
-    ],
-    "backupCourses": [
-      "POL 372",
-      "LING 311",
-      "ECE 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 250",
-      "ECE 201"
-    ],
-    "desiredCourses": [
-      "MA 265",
-      "CNIT 255",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "MA 166",
-      "CNIT 355",
-      "POL 272"
-    ]
-  },
-  {
-    "reqCourses": [
       "ECE 221",
-      "ECE 301"
-    ],
-    "desiredCourses": [
-      "MET 202",
-      "MET 255",
-      "POL 272"
+      "CNIT 355"
     ],
     "backupCourses": [
-      "POL 231",
-      "CNIT 180",
-      "CS 250"
-    ]
+      "ECE 202",
+      "LING 321",
+      "ECE 301"
+    ],
+    "schedule": []
   },
   {
+    "id": 88,
     "reqCourses": [
-      "MA 166",
-      "ECE 201"
+      "MET 310",
+      "POL 323"
+    ],
+    "desiredCourses": [
+      "CS 251",
+      "CS 240",
+      "ECE 202"
+    ],
+    "backupCourses": [
+      "MA 165",
+      "LING 315",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 89,
+    "reqCourses": [
+      "CNIT 155",
+      "LING 315"
     ],
     "desiredCourses": [
       "LING 201",
-      "CNIT 355",
+      "CS 240",
+      "CNIT 355"
+    ],
+    "backupCourses": [
+      "ECE 203",
+      "MA 361",
+      "POL 323"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 90,
+    "reqCourses": [
+      "POL 372",
+      "POL 120"
+    ],
+    "desiredCourses": [
+      "ECE 221",
+      "CS 251",
+      "CNIT 355"
+    ],
+    "backupCourses": [
+      "POL 300",
+      "ECE 201",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 91,
+    "reqCourses": [
+      "ECE 201",
+      "CS 251"
+    ],
+    "desiredCourses": [
+      "LING 311",
+      "CNIT 155",
       "LING 215"
     ],
     "backupCourses": [
-      "MA 265",
-      "CS 250",
-      "MET 310"
-    ]
+      "LING 201",
+      "POL 272",
+      "LING 315"
+    ],
+    "schedule": []
   },
   {
+    "id": 92,
     "reqCourses": [
-      "LING 311",
-      "MET 201"
-    ],
-    "desiredCourses": [
-      "MET 203",
-      "ECE 301",
-      "CNIT 180"
-    ],
-    "backupCourses": [
-      "CS 251",
-      "CNIT 240",
-      "MA 361"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "MET 310"
-    ],
-    "desiredCourses": [
-      "LING 215",
-      "CNIT 355",
-      "POL 120"
-    ],
-    "backupCourses": [
       "ECE 203",
-      "MET 351",
-      "MET 255"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 240",
-      "ECE 202"
+      "CS 251"
     ],
     "desiredCourses": [
-      "CS 180",
-      "POL 231",
-      "MET 310"
-    ],
-    "backupCourses": [
-      "CNIT 355",
-      "MET 255",
-      "MET 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 165",
-      "MET 310"
-    ],
-    "desiredCourses": [
-      "MET 351",
-      "LING 321",
-      "POL 272"
+      "CNIT 380",
+      "ECE 221",
+      "CS 252"
     ],
     "backupCourses": [
       "MA 265",
-      "POL 231",
-      "CS 182"
-    ]
+      "POL 272",
+      "CNIT 255"
+    ],
+    "schedule": []
   },
   {
+    "id": 93,
     "reqCourses": [
-      "ECE 201",
-      "MET 255"
-    ],
-    "desiredCourses": [
-      "CNIT 180",
       "MET 351",
-      "LING 315"
-    ],
-    "backupCourses": [
-      "LING 311",
-      "CS 252",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 120",
-      "LING 315"
+      "CS 252"
     ],
     "desiredCourses": [
-      "LING 215",
-      "CNIT 240",
-      "LING 201"
-    ],
-    "backupCourses": [
-      "LING 311",
       "POL 372",
-      "ECE 201"
-    ]
+      "CNIT 355",
+      "MA 166"
+    ],
+    "backupCourses": [
+      "MET 202",
+      "CNIT 240",
+      "POL 231"
+    ],
+    "schedule": []
   },
   {
+    "id": 94,
     "reqCourses": [
-      "MA 361",
-      "LING 315"
+      "MET 202",
+      "ECE 301"
     ],
     "desiredCourses": [
-      "CS 182",
-      "POL 120",
+      "LING 315",
+      "CNIT 180",
+      "CS 240"
+    ],
+    "backupCourses": [
+      "MA 265",
+      "LING 321",
       "MET 351"
     ],
-    "backupCourses": [
-      "MA 165",
-      "MA 166",
-      "CS 180"
-    ]
+    "schedule": []
   },
   {
+    "id": 95,
     "reqCourses": [
-      "LING 315",
-      "POL 372"
+      "CNIT 180",
+      "ECE 221"
     ],
     "desiredCourses": [
-      "ECE 221",
-      "POL 231",
-      "ECE 202"
-    ],
-    "backupCourses": [
-      "CNIT 240",
-      "CS 240",
-      "POL 323"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 221",
-      "MA 165"
-    ],
-    "desiredCourses": [
-      "MET 351",
-      "MET 201",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "CNIT 380",
-      "MET 310",
-      "CNIT 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 351",
-      "CNIT 155"
-    ],
-    "desiredCourses": [
-      "LING 321",
-      "MET 255",
-      "POL 372"
-    ],
-    "backupCourses": [
-      "CS 180",
-      "CS 250",
-      "CNIT 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 310",
-      "LING 321"
-    ],
-    "desiredCourses": [
-      "CNIT 380",
-      "POL 120",
+      "MET 202",
+      "MA 265",
       "CS 251"
     ],
     "backupCourses": [
-      "MA 166",
-      "POL 323",
-      "ECE 315"
-    ]
+      "ECE 301",
+      "CS 182",
+      "CNIT 240"
+    ],
+    "schedule": []
   },
   {
+    "id": 96,
     "reqCourses": [
-      "CNIT 255",
-      "CNIT 380"
+      "CNIT 155",
+      "MA 165"
+    ],
+    "desiredCourses": [
+      "ECE 202",
+      "CNIT 240",
+      "MET 310"
+    ],
+    "backupCourses": [
+      "LING 311",
+      "MET 351",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 97,
+    "reqCourses": [
+      "CS 252",
+      "MET 201"
+    ],
+    "desiredCourses": [
+      "MET 351",
+      "CS 180",
+      "CS 251"
+    ],
+    "backupCourses": [
+      "CS 250",
+      "MA 261",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 98,
+    "reqCourses": [
+      "POL 120",
+      "MA 261"
+    ],
+    "desiredCourses": [
+      "MET 202",
+      "CNIT 155",
+      "CS 252"
+    ],
+    "backupCourses": [
+      "MA 165",
+      "ECE 315",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 99,
+    "reqCourses": [
+      "POL 120",
+      "LING 215"
+    ],
+    "desiredCourses": [
+      "MA 166",
+      "MET 203",
+      "ECE 202"
+    ],
+    "backupCourses": [
+      "ECE 203",
+      "POL 272",
+      "LING 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 100,
+    "reqCourses": [
+      "POL 120",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "CS 182",
+      "CNIT 355",
+      "ECE 221"
+    ],
+    "backupCourses": [
+      "CS 250",
+      "CS 180",
+      "MET 310"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 101,
+    "reqCourses": [
+      "MA 265",
+      "CNIT 180"
+    ],
+    "desiredCourses": [
+      "POL 323",
+      "POL 272",
+      "LING 201"
+    ],
+    "backupCourses": [
+      "POL 231",
+      "MET 310",
+      "POL 372"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 102,
+    "reqCourses": [
+      "MA 361",
+      "CS 251"
+    ],
+    "desiredCourses": [
+      "MA 166",
+      "MA 261",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "MET 351",
+      "CS 182",
+      "MET 255"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 103,
+    "reqCourses": [
+      "CNIT 180",
+      "MA 261"
     ],
     "desiredCourses": [
       "CS 252",
+      "MET 202",
+      "POL 231"
+    ],
+    "backupCourses": [
+      "CNIT 355",
+      "POL 323",
+      "CS 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 104,
+    "reqCourses": [
+      "CNIT 255",
+      "POL 323"
+    ],
+    "desiredCourses": [
+      "CS 251",
+      "CNIT 180",
+      "ECE 301"
+    ],
+    "backupCourses": [
+      "CS 240",
+      "POL 272",
+      "MA 261"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 105,
+    "reqCourses": [
+      "MET 351",
+      "CS 250"
+    ],
+    "desiredCourses": [
+      "POL 120",
+      "LING 215",
+      "MET 201"
+    ],
+    "backupCourses": [
+      "CNIT 380",
+      "MA 361",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 106,
+    "reqCourses": [
+      "MET 203",
+      "POL 231"
+    ],
+    "desiredCourses": [
+      "MA 265",
+      "LING 315",
+      "CNIT 355"
+    ],
+    "backupCourses": [
+      "CS 240",
+      "MET 201",
+      "MA 261"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 107,
+    "reqCourses": [
+      "CNIT 240",
+      "CS 252"
+    ],
+    "desiredCourses": [
+      "MA 165",
+      "POL 120",
+      "CNIT 355"
+    ],
+    "backupCourses": [
+      "LING 315",
+      "ECE 301",
+      "MA 265"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 108,
+    "reqCourses": [
+      "POL 120",
+      "MET 351"
+    ],
+    "desiredCourses": [
+      "ECE 201",
+      "MA 165",
+      "MA 361"
+    ],
+    "backupCourses": [
+      "CNIT 255",
+      "MA 265",
+      "CNIT 155"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 109,
+    "reqCourses": [
+      "MET 255",
+      "ECE 315"
+    ],
+    "desiredCourses": [
+      "LING 321",
+      "CS 180",
+      "CNIT 180"
+    ],
+    "backupCourses": [
+      "LING 201",
+      "LING 215",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 110,
+    "reqCourses": [
+      "POL 272",
+      "CNIT 380"
+    ],
+    "desiredCourses": [
+      "MA 165",
+      "CS 251",
+      "ECE 202"
+    ],
+    "backupCourses": [
+      "CS 250",
+      "CS 252",
+      "MA 166"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 111,
+    "reqCourses": [
+      "CNIT 180",
+      "MA 166"
+    ],
+    "desiredCourses": [
+      "POL 272",
+      "CNIT 240",
+      "ECE 315"
+    ],
+    "backupCourses": [
+      "LING 321",
+      "MA 165",
+      "MET 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 112,
+    "reqCourses": [
+      "LING 315",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "CNIT 180",
+      "ECE 221",
+      "POL 120"
+    ],
+    "backupCourses": [
+      "LING 321",
+      "ECE 301",
+      "POL 300"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 113,
+    "reqCourses": [
+      "POL 323",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "LING 315",
+      "MET 202",
+      "CS 180"
+    ],
+    "backupCourses": [
+      "ECE 315",
+      "ECE 201",
+      "MET 310"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 114,
+    "reqCourses": [
+      "CS 240",
+      "LING 201"
+    ],
+    "desiredCourses": [
+      "MET 201",
+      "CS 251",
+      "CNIT 180"
+    ],
+    "backupCourses": [
+      "MA 261",
+      "LING 215",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 115,
+    "reqCourses": [
+      "ECE 221",
+      "POL 323"
+    ],
+    "desiredCourses": [
+      "MET 351",
+      "LING 321",
+      "LING 215"
+    ],
+    "backupCourses": [
+      "CS 240",
+      "LING 201",
+      "MA 166"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 116,
+    "reqCourses": [
+      "MA 165",
+      "CS 252"
+    ],
+    "desiredCourses": [
+      "POL 300",
+      "CNIT 380",
+      "MET 351"
+    ],
+    "backupCourses": [
+      "POL 231",
+      "CNIT 240",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 117,
+    "reqCourses": [
+      "LING 321",
+      "MA 361"
+    ],
+    "desiredCourses": [
+      "MET 255",
+      "CS 182",
+      "CS 240"
+    ],
+    "backupCourses": [
+      "CS 252",
+      "LING 315",
+      "ECE 221"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 118,
+    "reqCourses": [
+      "CS 180",
+      "ECE 201"
+    ],
+    "desiredCourses": [
+      "MA 261",
+      "POL 272",
+      "POL 120"
+    ],
+    "backupCourses": [
+      "MET 255",
+      "MA 265",
+      "MET 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 119,
+    "reqCourses": [
+      "MET 202",
+      "CNIT 255"
+    ],
+    "desiredCourses": [
+      "ECE 203",
+      "MA 166",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "POL 372",
+      "CS 251",
+      "CNIT 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 120,
+    "reqCourses": [
+      "LING 315",
+      "POL 231"
+    ],
+    "desiredCourses": [
+      "MET 202",
+      "LING 321",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "POL 300",
+      "MET 351",
+      "CS 252"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 121,
+    "reqCourses": [
+      "CNIT 240",
+      "CNIT 155"
+    ],
+    "desiredCourses": [
+      "CNIT 380",
+      "CS 240",
+      "CS 250"
+    ],
+    "backupCourses": [
+      "POL 120",
+      "LING 311",
+      "MET 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 122,
+    "reqCourses": [
+      "LING 321",
+      "POL 300"
+    ],
+    "desiredCourses": [
+      "POL 231",
+      "CNIT 240",
+      "MET 203"
+    ],
+    "backupCourses": [
+      "CS 240",
+      "LING 315",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 123,
+    "reqCourses": [
+      "MA 261",
+      "ECE 201"
+    ],
+    "desiredCourses": [
+      "LING 315",
+      "CNIT 355",
+      "CNIT 380"
+    ],
+    "backupCourses": [
+      "POL 231",
+      "CS 240",
+      "ECE 301"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 124,
+    "reqCourses": [
+      "CNIT 240",
+      "ECE 201"
+    ],
+    "desiredCourses": [
+      "LING 201",
+      "ECE 221",
+      "CS 252"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "MET 310",
+      "POL 231"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 125,
+    "reqCourses": [
+      "LING 215",
+      "POL 323"
+    ],
+    "desiredCourses": [
+      "CS 180",
+      "ECE 201",
+      "CS 252"
+    ],
+    "backupCourses": [
+      "POL 272",
+      "MET 202",
+      "POL 231"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 126,
+    "reqCourses": [
+      "POL 231",
+      "POL 323"
+    ],
+    "desiredCourses": [
+      "CS 252",
+      "LING 215",
+      "MA 265"
+    ],
+    "backupCourses": [
+      "MET 202",
+      "CS 240",
+      "LING 315"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 127,
+    "reqCourses": [
+      "ECE 301",
+      "CNIT 380"
+    ],
+    "desiredCourses": [
+      "CS 251",
+      "CS 180",
+      "MET 255"
+    ],
+    "backupCourses": [
+      "MA 261",
+      "MET 202",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 128,
+    "reqCourses": [
+      "MA 166",
+      "POL 372"
+    ],
+    "desiredCourses": [
+      "CS 182",
+      "MET 310",
+      "CNIT 155"
+    ],
+    "backupCourses": [
+      "MET 202",
+      "POL 231",
+      "MET 351"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 129,
+    "reqCourses": [
+      "LING 215",
+      "CS 251"
+    ],
+    "desiredCourses": [
+      "ECE 203",
+      "POL 372",
+      "ECE 315"
+    ],
+    "backupCourses": [
+      "LING 321",
+      "ECE 301",
+      "POL 231"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 130,
+    "reqCourses": [
+      "POL 120",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "LING 201",
+      "CNIT 180",
+      "LING 311"
+    ],
+    "backupCourses": [
+      "MA 261",
+      "MA 265",
+      "MET 255"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 131,
+    "reqCourses": [
+      "MA 166",
+      "ECE 203"
+    ],
+    "desiredCourses": [
+      "ECE 201",
+      "MA 361",
+      "ECE 202"
+    ],
+    "backupCourses": [
+      "CS 182",
+      "CS 251",
+      "LING 215"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 132,
+    "reqCourses": [
+      "MET 351",
+      "LING 311"
+    ],
+    "desiredCourses": [
+      "LING 315",
+      "CNIT 380",
+      "ECE 202"
+    ],
+    "backupCourses": [
+      "MA 261",
+      "POL 272",
+      "CNIT 355"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 133,
+    "reqCourses": [
+      "CS 240",
+      "POL 300"
+    ],
+    "desiredCourses": [
+      "CNIT 380",
+      "CNIT 255",
+      "MET 201"
+    ],
+    "backupCourses": [
+      "MA 165",
+      "MA 166",
+      "ECE 202"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 134,
+    "reqCourses": [
+      "POL 272",
+      "ECE 201"
+    ],
+    "desiredCourses": [
+      "MA 265",
+      "CNIT 380",
+      "ECE 202"
+    ],
+    "backupCourses": [
+      "MET 201",
+      "ECE 301",
+      "CS 251"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 135,
+    "reqCourses": [
+      "MA 166",
+      "POL 300"
+    ],
+    "desiredCourses": [
+      "MA 265",
+      "CS 252",
+      "CS 251"
+    ],
+    "backupCourses": [
+      "CNIT 180",
+      "ECE 221",
+      "MET 351"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 136,
+    "reqCourses": [
+      "POL 120",
+      "POL 272"
+    ],
+    "desiredCourses": [
+      "POL 300",
+      "POL 231",
+      "ECE 221"
+    ],
+    "backupCourses": [
+      "LING 215",
+      "ECE 315",
+      "CS 250"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 137,
+    "reqCourses": [
+      "ECE 202",
+      "CNIT 255"
+    ],
+    "desiredCourses": [
+      "LING 201",
+      "LING 215",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "MET 201",
+      "POL 300",
+      "MA 361"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 138,
+    "reqCourses": [
+      "ECE 203",
+      "ECE 202"
+    ],
+    "desiredCourses": [
+      "CS 250",
+      "MET 351",
+      "MET 202"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "CNIT 380",
+      "MA 166"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 139,
+    "reqCourses": [
+      "LING 311",
+      "POL 300"
+    ],
+    "desiredCourses": [
+      "CS 250",
+      "ECE 301",
+      "POL 231"
+    ],
+    "backupCourses": [
+      "CNIT 180",
+      "CNIT 155",
+      "MET 351"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 140,
+    "reqCourses": [
+      "CS 251",
+      "MA 165"
+    ],
+    "desiredCourses": [
+      "ECE 202",
+      "CNIT 255",
+      "MA 265"
+    ],
+    "backupCourses": [
+      "POL 372",
+      "POL 231",
+      "ECE 301"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 141,
+    "reqCourses": [
+      "CNIT 355",
+      "ECE 221"
+    ],
+    "desiredCourses": [
+      "MET 255",
+      "LING 315",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "LING 311",
+      "POL 120",
+      "MA 261"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 142,
+    "reqCourses": [
+      "POL 120",
+      "CS 182"
+    ],
+    "desiredCourses": [
+      "MET 202",
+      "CS 250",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "CS 180",
+      "POL 272",
+      "CNIT 380"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 143,
+    "reqCourses": [
+      "CNIT 155",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "CNIT 240",
+      "POL 272",
+      "POL 372"
+    ],
+    "backupCourses": [
+      "MA 261",
+      "MET 351",
+      "POL 300"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 144,
+    "reqCourses": [
+      "MET 351",
+      "POL 372"
+    ],
+    "desiredCourses": [
+      "CS 240",
+      "LING 315",
+      "ECE 301"
+    ],
+    "backupCourses": [
+      "ECE 201",
+      "MA 265",
+      "LING 311"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 145,
+    "reqCourses": [
+      "MET 203",
+      "MA 165"
+    ],
+    "desiredCourses": [
+      "LING 201",
+      "MA 265",
+      "LING 311"
+    ],
+    "backupCourses": [
+      "MET 351",
+      "CNIT 355",
+      "ECE 202"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 146,
+    "reqCourses": [
+      "CS 252",
+      "CNIT 380"
+    ],
+    "desiredCourses": [
+      "CS 180",
+      "LING 201",
+      "ECE 315"
+    ],
+    "backupCourses": [
+      "CS 250",
+      "POL 120",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 147,
+    "reqCourses": [
+      "ECE 202",
+      "CS 251"
+    ],
+    "desiredCourses": [
+      "MA 361",
+      "MET 351",
+      "CNIT 155"
+    ],
+    "backupCourses": [
+      "MET 201",
+      "POL 272",
+      "POL 323"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 148,
+    "reqCourses": [
+      "LING 315",
+      "LING 311"
+    ],
+    "desiredCourses": [
+      "CNIT 355",
+      "MET 201",
+      "POL 323"
+    ],
+    "backupCourses": [
+      "CS 252",
+      "CNIT 155",
+      "ECE 202"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 149,
+    "reqCourses": [
+      "MET 310",
+      "POL 231"
+    ],
+    "desiredCourses": [
+      "MA 265",
+      "POL 120",
+      "CNIT 255"
+    ],
+    "backupCourses": [
+      "ECE 202",
+      "LING 321",
+      "ECE 221"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 150,
+    "reqCourses": [
+      "LING 215",
+      "CNIT 155"
+    ],
+    "desiredCourses": [
+      "POL 231",
+      "POL 120",
+      "LING 201"
+    ],
+    "backupCourses": [
+      "CNIT 355",
+      "MA 165",
+      "CS 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 151,
+    "reqCourses": [
+      "CNIT 155",
+      "MET 202"
+    ],
+    "desiredCourses": [
+      "CNIT 380",
+      "LING 201",
+      "MET 351"
+    ],
+    "backupCourses": [
+      "ECE 201",
+      "POL 120",
+      "CS 250"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 152,
+    "reqCourses": [
+      "CS 250",
+      "CS 182"
+    ],
+    "desiredCourses": [
+      "MA 265",
+      "CNIT 355",
+      "CNIT 380"
+    ],
+    "backupCourses": [
+      "CS 180",
+      "LING 215",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 153,
+    "reqCourses": [
+      "CNIT 355",
+      "POL 272"
+    ],
+    "desiredCourses": [
+      "MA 265",
+      "CNIT 155",
+      "POL 120"
+    ],
+    "backupCourses": [
+      "POL 231",
+      "LING 311",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 154,
+    "reqCourses": [
+      "CS 252",
+      "POL 231"
+    ],
+    "desiredCourses": [
+      "CS 240",
+      "MA 265",
+      "ECE 203"
+    ],
+    "backupCourses": [
+      "ECE 201",
+      "LING 311",
+      "LING 215"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 155,
+    "reqCourses": [
+      "MA 165",
+      "LING 311"
+    ],
+    "desiredCourses": [
+      "MET 203",
+      "CS 182",
+      "CNIT 240"
+    ],
+    "backupCourses": [
+      "ECE 315",
+      "LING 201",
+      "CNIT 355"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 156,
+    "reqCourses": [
+      "ECE 315",
+      "CNIT 180"
+    ],
+    "desiredCourses": [
+      "MA 361",
+      "MA 265",
+      "POL 272"
+    ],
+    "backupCourses": [
+      "ECE 201",
+      "CS 251",
+      "MET 310"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 157,
+    "reqCourses": [
+      "ECE 221",
+      "ECE 203"
+    ],
+    "desiredCourses": [
+      "MA 166",
+      "MET 203",
+      "MET 255"
+    ],
+    "backupCourses": [
+      "MA 361",
+      "CNIT 155",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 158,
+    "reqCourses": [
+      "MA 261",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "ECE 301",
+      "CNIT 155",
+      "MET 203"
+    ],
+    "backupCourses": [
+      "CNIT 180",
+      "POL 300",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 159,
+    "reqCourses": [
+      "MA 166",
+      "LING 215"
+    ],
+    "desiredCourses": [
+      "ECE 202",
+      "CS 250",
+      "LING 321"
+    ],
+    "backupCourses": [
+      "ECE 201",
+      "CS 252",
+      "MET 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 160,
+    "reqCourses": [
+      "ECE 301",
+      "ECE 202"
+    ],
+    "desiredCourses": [
+      "LING 321",
+      "POL 120",
+      "CNIT 355"
+    ],
+    "backupCourses": [
+      "CS 180",
+      "CNIT 255",
+      "CS 182"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 161,
+    "reqCourses": [
+      "POL 300",
+      "LING 315"
+    ],
+    "desiredCourses": [
+      "MA 361",
+      "MET 310",
+      "CNIT 240"
+    ],
+    "backupCourses": [
+      "ECE 201",
+      "POL 120",
+      "ECE 315"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 162,
+    "reqCourses": [
+      "POL 300",
+      "MA 165"
+    ],
+    "desiredCourses": [
+      "MA 261",
+      "MET 203",
+      "ECE 315"
+    ],
+    "backupCourses": [
+      "POL 120",
+      "CNIT 180",
+      "ECE 301"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 163,
+    "reqCourses": [
+      "LING 215",
+      "POL 372"
+    ],
+    "desiredCourses": [
+      "LING 201",
+      "POL 300",
+      "MET 203"
+    ],
+    "backupCourses": [
+      "MET 201",
+      "CNIT 180",
+      "POL 120"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 164,
+    "reqCourses": [
+      "MET 203",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "CNIT 155",
+      "CS 250",
+      "ECE 301"
+    ],
+    "backupCourses": [
+      "LING 315",
+      "MA 261",
+      "MET 202"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 165,
+    "reqCourses": [
+      "MA 165",
+      "MET 201"
+    ],
+    "desiredCourses": [
+      "MET 310",
+      "CNIT 155",
+      "CS 251"
+    ],
+    "backupCourses": [
+      "LING 321",
+      "CNIT 240",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 166,
+    "reqCourses": [
+      "MA 166",
+      "ECE 315"
+    ],
+    "desiredCourses": [
+      "MA 261",
+      "MA 265",
+      "POL 323"
+    ],
+    "backupCourses": [
+      "POL 300",
+      "LING 311",
+      "CS 251"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 167,
+    "reqCourses": [
+      "MA 166",
+      "CS 250"
+    ],
+    "desiredCourses": [
+      "MA 361",
+      "MA 165",
+      "LING 315"
+    ],
+    "backupCourses": [
+      "CNIT 240",
+      "POL 323",
+      "ECE 315"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 168,
+    "reqCourses": [
+      "MET 203",
+      "MA 261"
+    ],
+    "desiredCourses": [
+      "CNIT 240",
+      "CS 180",
+      "ECE 221"
+    ],
+    "backupCourses": [
+      "ECE 201",
+      "ECE 315",
+      "POL 372"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 169,
+    "reqCourses": [
+      "MET 202",
+      "CS 180"
+    ],
+    "desiredCourses": [
+      "POL 120",
+      "POL 323",
+      "CNIT 155"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "MA 265",
+      "MET 351"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 170,
+    "reqCourses": [
+      "POL 231",
+      "ECE 221"
+    ],
+    "desiredCourses": [
+      "MET 202",
+      "LING 321",
+      "LING 215"
+    ],
+    "backupCourses": [
+      "POL 120",
+      "POL 272",
+      "CS 250"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 171,
+    "reqCourses": [
+      "ECE 202",
+      "CNIT 180"
+    ],
+    "desiredCourses": [
+      "ECE 315",
+      "ECE 221",
+      "CS 240"
+    ],
+    "backupCourses": [
+      "ECE 203",
+      "MA 265",
+      "CS 252"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 172,
+    "reqCourses": [
+      "MET 202",
+      "MET 351"
+    ],
+    "desiredCourses": [
+      "CS 180",
+      "MET 203",
+      "ECE 301"
+    ],
+    "backupCourses": [
+      "MA 166",
+      "CS 240",
+      "CNIT 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 173,
+    "reqCourses": [
+      "LING 321",
+      "MET 203"
+    ],
+    "desiredCourses": [
+      "LING 315",
+      "LING 311",
+      "CS 180"
+    ],
+    "backupCourses": [
+      "CS 182",
+      "POL 300",
+      "MA 165"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 174,
+    "reqCourses": [
+      "POL 120",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "MET 203",
+      "MET 351",
+      "ECE 201"
+    ],
+    "backupCourses": [
+      "POL 272",
+      "LING 215",
+      "CS 240"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 175,
+    "reqCourses": [
+      "MET 203",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "POL 272",
+      "CS 182",
+      "MA 361"
+    ],
+    "backupCourses": [
+      "POL 372",
+      "POL 231",
+      "CS 252"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 176,
+    "reqCourses": [
+      "LING 201",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "CNIT 380",
+      "ECE 203",
+      "MA 261"
+    ],
+    "backupCourses": [
+      "LING 315",
+      "CS 182",
+      "ECE 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 177,
+    "reqCourses": [
+      "POL 300",
+      "MA 361"
+    ],
+    "desiredCourses": [
+      "CS 250",
+      "MA 165",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "ECE 202",
+      "CS 240",
+      "CS 251"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 178,
+    "reqCourses": [
+      "POL 231",
+      "MA 261"
+    ],
+    "desiredCourses": [
+      "LING 315",
+      "POL 120",
+      "MET 201"
+    ],
+    "backupCourses": [
+      "CNIT 240",
+      "POL 272",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 179,
+    "reqCourses": [
+      "ECE 221",
+      "LING 201"
+    ],
+    "desiredCourses": [
+      "CNIT 380",
+      "MET 310",
+      "POL 323"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "CNIT 355",
+      "MET 201"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 180,
+    "reqCourses": [
+      "ECE 201",
+      "CNIT 240"
+    ],
+    "desiredCourses": [
+      "CNIT 155",
+      "CNIT 180",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "MET 351",
+      "CS 252",
+      "CNIT 380"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 181,
+    "reqCourses": [
+      "CNIT 155",
+      "MA 165"
+    ],
+    "desiredCourses": [
+      "MET 310",
+      "LING 201",
+      "MA 166"
+    ],
+    "backupCourses": [
+      "LING 315",
+      "MET 203",
+      "POL 120"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 182,
+    "reqCourses": [
+      "CS 180",
+      "LING 321"
+    ],
+    "desiredCourses": [
+      "ECE 301",
+      "LING 215",
+      "MA 165"
+    ],
+    "backupCourses": [
+      "ECE 221",
+      "POL 231",
+      "MA 261"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 183,
+    "reqCourses": [
+      "MA 265",
+      "CNIT 355"
+    ],
+    "desiredCourses": [
+      "LING 311",
+      "MET 351",
+      "MA 166"
+    ],
+    "backupCourses": [
+      "CNIT 180",
+      "ECE 202",
+      "CS 182"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 184,
+    "reqCourses": [
+      "POL 120",
+      "CS 252"
+    ],
+    "desiredCourses": [
+      "POL 300",
+      "POL 272",
+      "LING 315"
+    ],
+    "backupCourses": [
+      "MA 166",
+      "CS 251",
+      "LING 215"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 185,
+    "reqCourses": [
+      "ECE 315",
+      "LING 311"
+    ],
+    "desiredCourses": [
+      "CNIT 180",
+      "POL 272",
+      "CS 182"
+    ],
+    "backupCourses": [
+      "POL 120",
+      "ECE 201",
+      "LING 315"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 186,
+    "reqCourses": [
+      "ECE 201",
+      "MA 265"
+    ],
+    "desiredCourses": [
+      "CS 251",
+      "POL 231",
+      "CS 240"
+    ],
+    "backupCourses": [
+      "LING 201",
+      "LING 321",
+      "ECE 221"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 187,
+    "reqCourses": [
+      "ECE 221",
+      "MET 351"
+    ],
+    "desiredCourses": [
+      "LING 315",
+      "POL 372",
+      "MA 165"
+    ],
+    "backupCourses": [
+      "MA 361",
+      "CNIT 180",
+      "CS 250"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 188,
+    "reqCourses": [
+      "MET 255",
+      "CS 182"
+    ],
+    "desiredCourses": [
+      "POL 300",
+      "LING 311",
+      "MA 165"
+    ],
+    "backupCourses": [
+      "CS 180",
+      "MA 265",
+      "MET 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 189,
+    "reqCourses": [
+      "CNIT 355",
+      "MA 166"
+    ],
+    "desiredCourses": [
+      "MET 255",
+      "POL 231",
+      "MA 265"
+    ],
+    "backupCourses": [
+      "ECE 203",
+      "CS 250",
+      "ECE 202"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 190,
+    "reqCourses": [
+      "CS 182",
+      "MET 255"
+    ],
+    "desiredCourses": [
+      "ECE 202",
+      "CNIT 255",
+      "CS 252"
+    ],
+    "backupCourses": [
+      "ECE 203",
+      "POL 300",
+      "LING 215"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 191,
+    "reqCourses": [
+      "CS 250",
+      "MET 203"
+    ],
+    "desiredCourses": [
+      "CS 240",
+      "CNIT 255",
+      "CS 252"
+    ],
+    "backupCourses": [
+      "CNIT 380",
+      "CS 180",
+      "ECE 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 192,
+    "reqCourses": [
+      "LING 321",
+      "CNIT 240"
+    ],
+    "desiredCourses": [
+      "LING 215",
+      "MA 361",
+      "POL 323"
+    ],
+    "backupCourses": [
+      "POL 231",
+      "CNIT 380",
+      "POL 300"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 193,
+    "reqCourses": [
+      "ECE 203",
+      "MET 255"
+    ],
+    "desiredCourses": [
+      "ECE 201",
+      "CNIT 355",
+      "CS 180"
+    ],
+    "backupCourses": [
+      "ECE 221",
+      "MET 201",
+      "MET 351"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 194,
+    "reqCourses": [
+      "CNIT 180",
+      "ECE 203"
+    ],
+    "desiredCourses": [
+      "POL 272",
+      "CNIT 355",
+      "ECE 301"
+    ],
+    "backupCourses": [
+      "POL 323",
+      "MA 166",
+      "MET 203"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 195,
+    "reqCourses": [
+      "POL 272",
+      "LING 311"
+    ],
+    "desiredCourses": [
+      "ECE 203",
+      "CS 180",
+      "ECE 301"
+    ],
+    "backupCourses": [
+      "MET 351",
+      "CNIT 255",
+      "CNIT 155"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 196,
+    "reqCourses": [
+      "MA 265",
+      "CS 240"
+    ],
+    "desiredCourses": [
+      "POL 120",
+      "CS 251",
+      "CNIT 255"
+    ],
+    "backupCourses": [
+      "POL 323",
+      "POL 272",
+      "MA 166"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 197,
+    "reqCourses": [
+      "CS 180",
+      "ECE 202"
+    ],
+    "desiredCourses": [
+      "CNIT 255",
+      "ECE 201",
+      "MET 202"
+    ],
+    "backupCourses": [
+      "ECE 203",
+      "CNIT 240",
+      "CNIT 180"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 198,
+    "reqCourses": [
+      "LING 311",
+      "ECE 301"
+    ],
+    "desiredCourses": [
+      "CNIT 255",
+      "MET 351",
+      "MET 310"
+    ],
+    "backupCourses": [
+      "MET 203",
+      "MA 361",
+      "CS 251"
+    ],
+    "schedule": []
+  },
+  {
+    "id": 199,
+    "reqCourses": [
+      "MET 310",
+      "CNIT 240"
+    ],
+    "desiredCourses": [
+      "MET 201",
       "MA 261",
       "MET 255"
     ],
     "backupCourses": [
-      "POL 300",
-      "CS 251",
-      "CS 180"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 251",
-      "LING 315"
-    ],
-    "desiredCourses": [
       "LING 321",
-      "POL 300",
-      "ECE 315"
-    ],
-    "backupCourses": [
       "CNIT 255",
-      "MA 261",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 351",
-      "MET 203"
-    ],
-    "desiredCourses": [
-      "CS 252",
-      "MET 255",
-      "ECE 203"
-    ],
-    "backupCourses": [
-      "LING 315",
-      "CS 240",
-      "POL 272"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 165",
-      "CNIT 240"
-    ],
-    "desiredCourses": [
-      "MA 261",
-      "CNIT 255",
-      "MA 361"
-    ],
-    "backupCourses": [
-      "CNIT 380",
-      "POL 272",
-      "LING 315"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 272",
-      "LING 315"
-    ],
-    "desiredCourses": [
-      "CNIT 240",
-      "CNIT 255",
-      "CS 182"
-    ],
-    "backupCourses": [
-      "LING 201",
-      "CS 251",
-      "MET 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
-      "ECE 301"
-    ],
-    "desiredCourses": [
-      "CS 180",
-      "CS 252",
-      "LING 321"
-    ],
-    "backupCourses": [
-      "CNIT 380",
-      "CNIT 255",
-      "MET 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 240",
-      "LING 201"
-    ],
-    "desiredCourses": [
-      "CNIT 180",
-      "CNIT 355",
-      "POL 323"
-    ],
-    "backupCourses": [
-      "LING 311",
-      "CNIT 255",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 323",
-      "CS 250"
-    ],
-    "desiredCourses": [
-      "POL 372",
-      "CNIT 255",
-      "LING 201"
-    ],
-    "backupCourses": [
-      "CS 182",
-      "MET 203",
-      "CS 252"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 155",
-      "CNIT 380"
-    ],
-    "desiredCourses": [
-      "ECE 201",
-      "ECE 221",
-      "POL 323"
-    ],
-    "backupCourses": [
-      "ECE 301",
-      "CS 252",
-      "CNIT 355"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 120",
-      "LING 311"
-    ],
-    "desiredCourses": [
-      "MET 202",
-      "MA 165",
-      "MET 203"
-    ],
-    "backupCourses": [
-      "CNIT 155",
-      "ECE 203",
-      "CS 250"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 251",
-      "MET 310"
-    ],
-    "desiredCourses": [
-      "LING 215",
-      "LING 321",
-      "MET 351"
-    ],
-    "backupCourses": [
-      "MA 361",
-      "ECE 201",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 380",
-      "CS 182"
-    ],
-    "desiredCourses": [
-      "MA 166",
-      "ECE 203",
-      "CNIT 155"
-    ],
-    "backupCourses": [
-      "MET 203",
-      "LING 315",
-      "LING 321"
-    ]
-  },
-  {
-    "reqCourses": [
-      "LING 201",
-      "POL 323"
-    ],
-    "desiredCourses": [
-      "MA 165",
-      "LING 215",
-      "MET 351"
-    ],
-    "backupCourses": [
-      "LING 311",
-      "CNIT 155",
-      "MET 310"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 315",
-      "LING 201"
-    ],
-    "desiredCourses": [
-      "CS 252",
-      "CS 180",
-      "CNIT 380"
-    ],
-    "backupCourses": [
-      "MET 201",
-      "LING 315",
-      "MET 351"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 251",
       "MA 165"
     ],
-    "desiredCourses": [
-      "CNIT 355",
-      "ECE 203",
-      "ECE 221"
-    ],
-    "backupCourses": [
-      "MA 261",
-      "CS 182",
-      "ECE 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 240",
-      "POL 272"
-    ],
-    "desiredCourses": [
-      "MA 361",
-      "ECE 301",
-      "LING 311"
-    ],
-    "backupCourses": [
-      "POL 300",
-      "CS 180",
-      "CS 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "ECE 201",
-      "CS 250"
-    ],
-    "desiredCourses": [
-      "MA 165",
-      "CS 252",
-      "ECE 301"
-    ],
-    "backupCourses": [
-      "CNIT 355",
-      "LING 215",
-      "MET 310"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 231",
-      "LING 201"
-    ],
-    "desiredCourses": [
-      "MA 166",
-      "CNIT 180",
-      "POL 323"
-    ],
-    "backupCourses": [
-      "MET 351",
-      "LING 321",
-      "CS 250"
-    ]
-  },
-  {
-    "reqCourses": [
-      "POL 300",
-      "POL 120"
-    ],
-    "desiredCourses": [
-      "MA 165",
-      "POL 231",
-      "MET 201"
-    ],
-    "backupCourses": [
-      "CS 251",
-      "ECE 202",
-      "ECE 301"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 182",
-      "MA 166"
-    ],
-    "desiredCourses": [
-      "CS 240",
-      "LING 311",
-      "CS 250"
-    ],
-    "backupCourses": [
-      "MET 310",
-      "POL 231",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 351",
-      "LING 321"
-    ],
-    "desiredCourses": [
-      "LING 215",
-      "CS 180",
-      "CNIT 255"
-    ],
-    "backupCourses": [
-      "POL 300",
-      "CNIT 155",
-      "CNIT 180"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 240",
-      "MA 265"
-    ],
-    "desiredCourses": [
-      "POL 300",
-      "CS 182",
-      "ECE 301"
-    ],
-    "backupCourses": [
-      "POL 120",
-      "ECE 202",
-      "ECE 203"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 261",
-      "ECE 202"
-    ],
-    "desiredCourses": [
-      "CS 182",
-      "MET 203",
-      "LING 311"
-    ],
-    "backupCourses": [
-      "LING 201",
-      "CNIT 240",
-      "CS 240"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 202",
-      "POL 372"
-    ],
-    "desiredCourses": [
-      "ECE 301",
-      "CS 240",
-      "LING 321"
-    ],
-    "backupCourses": [
-      "CNIT 180",
-      "ECE 202",
-      "CNIT 155"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 361",
-      "MET 310"
-    ],
-    "desiredCourses": [
-      "LING 215",
-      "CS 180",
-      "POL 120"
-    ],
-    "backupCourses": [
-      "CNIT 155",
-      "ECE 203",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MA 265",
-      "LING 215"
-    ],
-    "desiredCourses": [
-      "ECE 301",
-      "ECE 201",
-      "POL 231"
-    ],
-    "backupCourses": [
-      "CNIT 380",
-      "POL 323",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CNIT 255",
-      "CNIT 380"
-    ],
-    "desiredCourses": [
-      "POL 231",
-      "MA 165",
-      "CNIT 240"
-    ],
-    "backupCourses": [
-      "POL 372",
-      "MA 261",
-      "ECE 221"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 250",
-      "MA 265"
-    ],
-    "desiredCourses": [
-      "MA 166",
-      "LING 321",
-      "LING 201"
-    ],
-    "backupCourses": [
-      "CS 182",
-      "MET 201",
-      "MET 202"
-    ]
-  },
-  {
-    "reqCourses": [
-      "CS 180",
-      "CNIT 380"
-    ],
-    "desiredCourses": [
-      "LING 315",
-      "LING 321",
-      "MA 165"
-    ],
-    "backupCourses": [
-      "ECE 201",
-      "LING 215",
-      "POL 272"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 351",
-      "CNIT 155"
-    ],
-    "desiredCourses": [
-      "CS 250",
-      "CS 252",
-      "ECE 315"
-    ],
-    "backupCourses": [
-      "POL 120",
-      "MA 265",
-      "MET 201"
-    ]
-  },
-  {
-    "reqCourses": [
-      "MET 201",
-      "MA 166"
-    ],
-    "desiredCourses": [
-      "MET 203",
-      "MA 361",
-      "CNIT 255"
-    ],
-    "backupCourses": [
-      "CNIT 380",
-      "POL 120",
-      "MA 265"
-    ]
+    "schedule": []
   }
 ]

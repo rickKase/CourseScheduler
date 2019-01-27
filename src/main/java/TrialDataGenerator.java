@@ -50,6 +50,7 @@ public class TrialDataGenerator {
 		// Generates the student preferences
 		for (int i = 0; i < students.length; i++) {
 			students[i] = new Student();
+			students[i].setId(i);
 			// randomly generate 8 courses from the list
 			String[] preferredCourses = generateShuffledCourseList(8);
 			// ensure students only put a class a required if the course is not full.

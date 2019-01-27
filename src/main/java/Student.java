@@ -3,6 +3,8 @@ import java.util.List;
 
 public class Student {
 
+	private int id;
+
 	private String[] reqCourses;
 	private String[] desiredCourses;
 	private String[] backupCourses;
@@ -56,6 +58,14 @@ public class Student {
 
 	public void setBackupCourses(String[] backupCourses) {
 		this.backupCourses = backupCourses;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
 	}
 	/* Standard Getters & Setters */
 
