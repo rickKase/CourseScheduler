@@ -25,7 +25,7 @@ public class CourseGraph {
 
 	}
 
-	public Course[] getNonconflictedCourses(Course course) {
+	public Course[] getNonconflictingCourses(Course course) {
 		List<Course> courses = new ArrayList<>();
 		for (int i = 0; i < courseEdges.length; i++) {
 			if (courseEdges[indexMap.get(course)][i].isTime())

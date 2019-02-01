@@ -10,7 +10,7 @@ public class Main {
 		for (int i = 0; i < courses.length; i++) {
 			System.out.print(courses[i].getName() + ": ");
 			System.out.print("[");
-			Course[] conflictedCourses = courseGraph.getNonconflictedCourses(courses[i]);
+			Course[] conflictedCourses = courseGraph.getNonconflictingCourses(courses[i]);
 			for (int j = 0; j < conflictedCourses.length; j++) {
 				System.out.print(conflictedCourses[j].getName());
 				if (j < conflictedCourses.length - 1) {

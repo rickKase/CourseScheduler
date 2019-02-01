@@ -14,9 +14,10 @@ public class DataManager {
 
 	private int activeDataSet;
 
+	private Map<String, Course> courses;
 	private Student[] studentList;
 	private static String[] courseNameList;
-	private static Map<String, Course> courses;
+
 
 	/* Singleton */
 	private static DataManager instance = new DataManager();
