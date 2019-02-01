@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class TrialDataGenerator {
 
-	public static void generateStudentDataFiles(int dataSets) { // should be static
+	public static void generateStudentDataFiles(int dataSets) {
 		File folder = new File(DataManager.inputLocation);
 		for (int i = 0; i < dataSets; i++) {
 			saveStudentData(generateStudentPreferences(),
@@ -38,7 +38,7 @@ public class TrialDataGenerator {
 	 * it as an Array of Student objects.
 	 * @return
 	 */
-	private static Student[] generateStudentPreferences() { // should be static
+	private static Student[] generateStudentPreferences() {
 		Student[] students = new Student[200]; // always generates 200 students
 		Map<String, Integer> availableSpace = new HashMap<>();
 
@@ -47,13 +47,13 @@ public class TrialDataGenerator {
 		for (int i = 0; i < 40; i++)
 			availableSpace.put(DataManager.getCourseNames()[i], 30);
 
-		// Generates the student preferences
+		// Generates the student course preferences
 		for (int i = 0; i < students.length; i++) {
 			students[i] = new Student();
 			students[i].setId(i);
 			// randomly generate 8 courses from the list
 			String[] preferredCourses = generateShuffledCourseList(8);
-			// ensure students only put a class a required if the course is not full.
+			// ensure students only put a class as required if the course is not full.
 			int swapIndex = 8;
 			while (availableSpace.get(preferredCourses[0]) == 0) {
 				String temp = preferredCourses[0];
@@ -83,7 +83,7 @@ public class TrialDataGenerator {
 	 * @param students
 	 * @param file
 	 */
-	private static void saveStudentData(Student[] students, File file) {  // Should be static
+	private static void saveStudentData(Student[] students, File file) {
 		try {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(file));
 			writer.write(new GsonBuilder().setPrettyPrinting().create().toJson(students));
@@ -93,5 +93,4 @@ public class TrialDataGenerator {
 			e.printStackTrace();
 		}
 	}
-
 }

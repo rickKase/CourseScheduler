@@ -14,9 +14,9 @@ public class DataManager {
 
 	private int activeDataSet;
 
-	private Course[] courseList;
 	private Student[] studentList;
 	private static String[] courseNameList;
+	private static Map<String, Course> courses;
 
 	/* Singleton */
 	private static DataManager instance = new DataManager();
@@ -35,7 +35,7 @@ public class DataManager {
 
 	/* Data Access Methods */
 	public Course[] getCourses() {
-		return courseList;
+		return courses.values().toArray(new Course[0]);
 	}
 
 	public Student[] getStudents() {
@@ -47,7 +47,7 @@ public class DataManager {
 	}
 
 	public Course getCourseWithName(String courseName) {
-		for (Course course : courseList)
+		for (Course course : courses.values())
 			if (course.getName().equals(courseName))
 				return course;
 		return null;
@@ -100,13 +100,13 @@ public class DataManager {
 	 * used in the algorithm.
 	 */
 	private void loadCourseList() {
-		courseList = new Course[courseNameList.length];
-		for (int i = 0; i < courseNameList.length; i++) {
+		courses = new HashMap<>();
+		for (String courseName : courseNameList) {
 			Course course = new Course();
-			course.setName(courseNameList[i]);
+			course.setName(courseName);
 			course.setMaxStudents(30);
 			course.setMinStudents(15);
-			courseList[i] = course;
+			courses.put(courseName, course);
 		}
 	}
 

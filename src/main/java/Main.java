@@ -1,13 +1,26 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
-
 public class Main {
 
 	public static void main(String[] args) {
 		DataManager dataMan = DataManager.getInstance();
 		TheAlgorithm.createCourseRosters();
+
+		CourseGraph courseGraph = new CourseGraph(dataMan.getCourses());
+
+		Course[] courses = dataMan.getCourses();
+		for (int i = 0; i < courses.length; i++) {
+			System.out.print(courses[i].getName() + ": ");
+			System.out.print("[");
+			Course[] conflictedCourses = courseGraph.getNonconflictedCourses(courses[i]);
+			for (int j = 0; j < conflictedCourses.length; j++) {
+				System.out.print(conflictedCourses[j].getName());
+				if (j < conflictedCourses.length - 1) {
+					System.out.print(", ");
+				}
+			}
+			System.out.println("]");
+		}
+		System.out.println("\n");
+		printCourseRosters();
 	}
 
 
