@@ -2,7 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * TODO Write better comments
+ * TODO
+ *   - Write better comments
+ *   - Replace switch statement in the toString()
  * The thinking behind this code is that the amount of timeSlot objects
  * is standardized and immutable. An instance can be obtained from statically
  * managed set of all existing timeSlots. This also ensures that all TimeSlots
